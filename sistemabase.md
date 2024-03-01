@@ -1,4 +1,4 @@
-head(
+[head(
 # Sistema di gioco ((Sistema di gioco))
 -
 )
@@ -1471,3 +1471,4 @@ Volume occupato dalle creature:
     Grande 12
     Enorme 24
     Mastodontica 48
+](https://pf2.altervista.org/wiki/Magia)https://pf2.altervista.org/wiki/Magia
