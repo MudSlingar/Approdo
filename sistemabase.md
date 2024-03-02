@@ -1,11 +1,11 @@
-[head(
+head(
 # Sistema di gioco ((Sistema di gioco))
 -
 )
 
 # Giocare ((+Giocare))
 
-Nel gioco il ritmo delle scene è scandito da tre modalità di gioco. I personaggi trascorrono la maggior parte del tempo dedicandosi all'esplorazione, alla scoperta di misteri, alla risoluzione di problemi e all'interazione con gli altri personaggi. Il mondo di Ar'Ashar è irto di pericoli, e i personaggi si ritroveranno spesso coinvolti in incontri, combattimenti contro mostri terrificanti e bestie selvagge; infine, il tempo scorre rapidamente durante la pausa, un momento di tregua dai turbamenti del mondo e un'opportunità per riposarsi e addestrarsi per le spedizioni future. Nel corso del tempo, il gioco si sposta continuamente tra queste tre modalità, come richiesto dalla storia. Con il passare del tempo noterai che ogni modalità ha il suo stile di gioco, ma i confini tra una modalità e l'altra sono alquanto sfumati.
+Nel gioco il ritmo delle scene è scandito da tre modalità di gioco. I personaggi trascorrono la maggior parte del tempo dedicandosi all'esplorazione, alla scoperta di misteri, alla risoluzione di problemi e all'interazione con gli altri personaggi. Il mondo è irto di pericoli, e i personaggi si ritroveranno spesso coinvolti in incontri, combattimenti contro mostri terrificanti e bestie selvagge; infine, il tempo scorre rapidamente durante la pausa, un momento di tregua dai turbamenti del mondo e un'opportunità per riposarsi e addestrarsi per le spedizioni future. Nel corso del tempo, il gioco si sposta continuamente tra queste tre modalità, come richiesto dalla storia. Con il passare del tempo noterai che ogni modalità ha il suo stile di gioco, ma i confini tra una modalità e l'altra sono alquanto sfumati.
 
 ## Prove((++Prove))
 
@@ -168,7 +168,7 @@ Quando crei il tuo primo personaggio, o quando ti appresti a scrivere la tua pri
 
 ## Abilità ((++Abilità))
 
-Un'Abilità rappresenta la capacita di una creatura di eseguire determinati compiti che richiedono istruzione o addestramento. Ciascuna abilità riporta i modi in cui puoi usarla anche se non sei addestrato in quella abilità, seguiti dagli usi che richiedono invece di essere addestrato nell'abilità stessa. 
+Un'Abilità rappresenta la capacita di una creatura di eseguire determinati compiti che richiedono istruzione o addestramento. Ciascuna abilità riporta i modi in cui puoi usarla anche se non sei addestrato in quella abilità, seguiti dagli usi che richiedono invece di essere addestrato nell'abilità stessa. [Link Abilità](https://pf2.altervista.org/wiki/Abilit%C3%A0)
 
 sample(
 **Modificatore di abilità = caratteristica chiave dell'abilità + bonus di competenza + altri bonus** 
@@ -176,360 +176,201 @@ sample(
 
 /
 
-## Acrobazia (Des) ((++Acrobazia))
+### Acrobazia (Des) ((+++Acrobazia))
 -
-Eseguire compiti che richiedono coordinazione e grazia.
-### Bilanciarsi :a: (Azione dell'Abilità) (Non Addestrato) ((+++Bilanciarsi))
+Acrobazia misura la tua capacità di svolgere compiti che richiedono grazia e coordinazione. [link](https://pf2.altervista.org/wiki/Acrobazia)
 
-Muoversi su una superficie stretta o instabile.
-### Destreggiarsi :a: (Azione dell'Abilità) (Non Addestrato) ((+++Destreggiarsi))
-
-Muoversi attraverso lo spazio di qualcuno.
-### Manovrare in Volo:a: (Azione dell'Abilità) (Addestrato) ((+++Manovrare in volo))
-
-Eseguire un movimento difficile durante il volo.
-### Stringersi (Azione dell'Abilità) (Addestrato) ((+++Stringersi))
-
-Muoversi attraverso un varco durante l'esplorazione.
-## Arcano (Int) ((++Arcano))
+### Arcano (Int) ((+++Arcano))
 -
-Conoscere informazioni sulla magia e sulle creature arcane.
-### Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato) ((+++Ricordare conoscenze))
+Arcano indica quanto conosci la magia e le creature arcane.  [link](https://pf2.altervista.org/wiki/Arcano)
 
-Prova a ricordare qualcosa usando un'abilità.
-### Attingere Incantesimo Arcano (Azione dell'Abilità) (Addestrato) ((+++Attingere incantesimo arcano))
+### Artigianato (Int) ((+++Artigianato))
+-
+Puoi usare questa abilità per fabbricare, comprendere e riparare oggetti. [link](https://pf2.altervista.org/wiki/Artigianato)
 
-Ottenere temporaneamente l'accesso a un incantesimo arcano.
-### Decifrare Scritti (Azione dell'Abilità) (Addestrato) ((+++Decifrare scritti))
+### Atletica (For) ((+++Atletica))
+-
+Atletica indica la tua prodezza fisica. [link](https://pf2.altervista.org/wiki/Atletica)
 
-Comprendere testi oscuri o codificati.
-### Identificare Magia (Azione dell'Abilità) (Addestrato) ((+++Identificare Magia))
+### Diplomazia (Car) ((+++Diplomazia))
+-
+Influenzare gli altri attraverso la negoziazione e l'adulazione. [link](https://pf2.altervista.org/wiki/Diplomazia)
 
-Determinare i dettagli della magia.
-### Imparare un Incantesimo (Azione dell'Abilità) (Addestrato) ((+++Imparare un Incantesimo))
+### Esibizione (Car) ((+++Esibizione))
+-
+Sei abile in un certo tipo di arti performative, e usi il tuo talento per impressionare le folle o guadagnare qualche soldo. [link](https://pf2.altervista.org/wiki/Esibizione)
 
-Imparare un nuovo incantesimo.
+### Furtività (Des) ((+++Furtività))
+-
+Sei abile nel non farti individuare, e riesci a oltrepassare furtivamente i nemici, nasconderti e celare oggetti. [link](https://pf2.altervista.org/wiki/Furtività)
+
+### Furto (Des) ((+++Furto))
+-
+Rubare oggetti e disattivare serrature e altri meccanismi. [link](https://pf2.altervista.org/wiki/Furto)
+
+### Inganno (Car) ((+++Inganno))
+-
+Puoi ingannare e sviare gli altri con travestimenti, menzogne e altre forme di sotterfugio. [link](https://pf2.altervista.org/wiki/Inganno)
+
 |
 
-## Artigianato (Int) ((++Artigianato))
+### Medicina (Sag) ((+++Medicina))
 -
-Creare, comprendere e riparare oggetti.
-### Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato) ((+++Ricordare Conoscenze))
+Sai suturare ferite e curare le persone da Malattie e Veleni. [link](https://pf2.altervista.org/wiki/Medicina)
 
-Prova a ricordare qualcosa usando un'abilità.
-### Riparare (Azione dell'Abilità) (Non Addestrato) ((++Riparare))
-
-Aggiustare un oggetto rotto o danneggiato.
-### Fabbricare (Azione dell'Abilità) (Addestrato) ((+++Fabbricare))
-
-Creare un oggetto durante le pause.
-
-### Guadagnare (Azione dell'Abilità) (Addestrato) ((+++Guadagnare))
-
-Far soldi usando un'abilità durante i periodi di pausa.
-### Identificare Alchimia (Azione dell'abilità) (Addestrato) ((+++Identificare Alchimia))
-
-Determinare i dettagli dell'alchimia.
-## Atletica (For) ((++Atletica))
+### Occultismo (Int) ((+++Occultismo))
 -
-Eseguire imprese di prodezza fisica.
-### Forzare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Forzare))
+Sai molte cose su antiche filosofie, sapienza esoterica, misticismo oscuro e creature soprannaturali. [link](https://pf2.altervista.org/wiki/Occultismo)
 
-Aprire fisicamente qualcosa con uno strattone.
-### Lottare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Lottare))
 
-Afferrare o trattenere una creatura.
-### Nuotare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Nuotare))
+### Religione (Sag) ((+++Religione))
+-
+I segreti delle divinità, dei dogmi, della fede e dei regni delle creature sublimi e di quelle sinistre ti sono svelati. Inoltre comprendi il funzionamento della magia, sebbene il tuo addestramento dia un taglio religioso a questa conoscenza. [link](https://pf2.altervista.org/wiki/Religione)
 
-Muoversi attraverso l'acqua. Combattimento Acquatico Velocità di Nuotare
-### Salto in Alto:aa: (Azione dell'Abilità) (Non Addestrato) ((+++Salto in alto))
 
-Saltare in verticale.
-### Sbilanciare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Sbilanciare))
+### Sapienza (Int) ((+++Sapienza))
+-
+Possiedi informazioni specialistiche su un argomento ristretto. L'abilità Sapienza è composta da molte sottocategorie. Potresti avere Sapienza Militare, Sapienza Nautica, Sapienza sui Vampiri, o qualsiasi altra sottocategoria dell'abilità. [link](https://pf2.altervista.org/wiki/Sapienza)
 
-Buttare a terra una creatura.
-=
+### Società (Int) ((+++Società))
+-
+Comprendi le persone e le strutture che permettono alla civiltà di esistere, e conosci gli eventi storici che hanno reso le società ciò che sono oggi. [link](https://pf2.altervista.org/wiki/Società)
+
+### Sopravvivenza (Sag) ((+++Sopravvivenza))
+-
+Sei abituato alla vita nelle terre selvagge, a raccogliere il cibo e a costruire ripari, e addestrandoti scopri come cercare le tracce degli altri e come nascondere le tue. [link](https://pf2.altervista.org/wiki/Sopravvivenza)
 /
 
-### Scalare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Scalare))
-
-Muoversi lungo una pendenza o una superficie verticale.
-### Spingere :a: (Azione dell'abilità) (Non Addestrato) ((+++Spingere))
-
-Spostare una creatura
-### Disarmare :a: (Azione dell'Abilità) (Addestrato) ((+++Disarmare))
-
-Far cadere un oggetto a una creatura.
-## Diplomazia (Car) ((++Diplomazia))
--
-Influenzare gli altri attraverso la negoziazione e l'adulazione.
-### Impressionare (Azione dell'Abilità) (Non Addestrato) ((+++Impressionare))
-
-Cambiare l'atteggiamento di qualcuno.
-### Raccogliere Informazioni (Azione dell'Abilità) (Non Addestrato) ((+++Raccogliere informazioni))
-
-Socializzare per apprendere notizie.
-### Richiedere:a: (Azione dell'Abilità) (Non Addestrato) ((+++Richiedere))
-
-Convincere qualcuno a fare un favore.
-## Esibizione (Car) ((++Esibizione))
--
-Usare le proprie doti per mettere in scena uno spettacolo.
-### Esibirsi (Azione dell'Abilità) (Non Addestrato) ((+++Esibirsi))
-
-Stupire le persone con un'esibizione.
-### Guadagnare (Azione dell'Abilità) (Addestrato) ((+++Guadagnare))
-
-Far soldi usando un'abilità durante i periodi di pausa.
-
-## Furtività (Des) ((++Furtività))
--
-Evitare l'individuazione e nascondere oggetti.
-### Muoversi Furtivamente :a: (Azione dell'Abilità) (Non Addestrato) ((+++Muoversi Furtivamente))
-
-Muoversi silenziosamente mentre si rimane nascosti.
-### Nascondere un Oggetto :a: (Azione dell'Abilità) (Non Addestrato) ((+++Nascondere un Oggetto))
-
-Nascondere un oggetto sulla propria persona.
-### Nascondersi :a: (Azione dell'Abilità) (Non Addestrato) ((+++Nascondersi))
-
-Rendersi nascosti.
-|
-## Furto (Des) ((++Furto))
--
-Rubare oggetti e disattivare serrature e altri meccanismi.
-### Nascondere Nella Mano :a: (Azione dell'Abilità) (Non Addestrato) ((+++Nascondere Nella Mano))
-
-Prendere un oggetto senza essere osservati.
-### Rubare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Rubare))
-
-Trafugare un oggetto in possesso di qualcun'altro.
-### Disattivare un Congegno :aa: (Azione dell'Abilità) (Addestrato) ((+++Disattivare un Congegno))
-
-Disattivare una trappola o un simile meccanismo complesso.
-### Scassinare una Serratura :aa: (Azione dell'Abilità) (Addestrato) ((+++Scassinare una Serratura))
-
-Apre una serratura.
-## Inganno (Car) ((++Inganno))
--
-Ingannare e fuorviare gli altri.
-### Creare un Diversivo :a: (Azione dell'Abilità) (Non Addestrato) ((+++Creare un Diversivo))
-
-Distrarre qualcuno.
-### Impersonare (Azione dell'Abilità) (Non Addestrato) ((+++Impersonare))
-
-Spacciarsi per qualcun'altro.
-### Mentire (Azione dell'Abilità) (Non Addestrato) ((+++Mentire))
-
-Ingannare qualcuno con una menzogna.
-### Fintare :a: (Azione dell'Abilità) (Addestrato) ((+++Fintare))
-
-Ingannare qualcuno per renderlo impreparato.
-## Intimidazione (Car) ((++Intimidazione))
--
-Piegare gli altri alla propria volontà usando le minacce.
-### Costringere (Azione dell'Abilità) (Non Addestrato) ((+++Costringere))
-
-Forzare qualcuno a fare quel che si desidera.
-### Demoralizzare :a: (Azione dell'Abilità) (Non Addestrato) ((+++Demoralizzare))
-
-Spaventare i propri nemici.
-
 =
-/
-
-## Medicina (Sag)
--
-Guarire le persone e aiutarle a riprendersi dalle afflizioni.
-Prestare Primo Soccorso:aa: (Azione dell'Abilità) (Non Addestrato)
-
-Stabilizzare una creatura morente o fermare il sanguinamento.
-Ricordare Conoscenze:a: (Azione dell'abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Curare Ferite (Azione dell'Abilità) (Addestrato)
-
-Ripristinare Punti Ferita a una creatura.
-Curare Malattia (Azione dell'Abilità) (Addestrato)
-
-Trattare una malattia nelle pause.
-Curare Veleno :a: (Azione dell'Abilità) (Addestrato)
-
-Aiutare un paziente avvelenato a riprendersi.
-Natura (Sag)
-
-Conoscere il mondo naturale e la magia primeva.
-Comandare un Animale :a: (Azione dell'Abilità) (Non Addestrato)
-
-Fare in modo che un animale obbedisca.
-
-Comando Combattimento Acquatico Combattimento Aereo Combattimento in Sella
-Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Identificare Magia (Azione dell'Abilità) (Addestrato)
-
-Determinare i dettagli della magia.
-Imparare un Incantesimo (Azione dell'Abilità) (Addestrato)
-
-Imparare un nuovo incantesimo.
-Occultismo (Int)
-
-Conoscere filosofie, misticismo e magia occulta.
-Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Decifrare Scritti (Azione dell'Abilità) (Addestrato)
-
-Comprendere testi oscuri o codificati.
-Identificare Magia (Azione dell'Abilità) (Addestrato)
-
-Determinare i dettagli della magia.
-Imparare un Incantesimo (Azione dell'Abilità) (Addestrato)
-
-Imparare un nuovo incantesimo.
-Religione (Sag)
-
-Conoscere le divinità, la fede e la magia divina.
-Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Decifrare Scritti (Azione dell'Abilità) (Addestrato)
-
-Comprendere testi oscuri o codificati.
-Identificare Magia (Azione dell'Abilità) (Addestrato)
-
-Determinare i dettagli della magia.
-Imparare un Incantesimo (Azione dell'Abilità) (Addestrato)
-
-Imparare un nuovo incantesimo.
-Sapienza (Int)
-
-Conoscere informazioni specializzate su un argomento ristretto.
-Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Guadagnare (Azione dell'Abilità) (Addestrato)
-
-Far soldi usando un'abilità durante i periodi di pausa.
-Società (Int)
-
-Conoscere civiltà, culture e storia.
-Ricordare Conoscenze:a: (Azione dell'Abilità) (Non Addestrato)
-
-Prova a ricordare qualcosa usando un'abilità
-Sopravvivere (Azione dell'Abilità) (Non Addestrato)
-
-Trovare vitto e alloggio gratis.
-Decifrare Scritti (Azione dell'Abilità) (Addestrato)
-
-Comprendere testi oscuri o codificati.
-Falsificare (Azione dell'Abilità) (Addestrato)
-
-Creare un documento falso durante le pause.
-Sopravvivenza (Sag)
-
-Viaggiare e sopravvivere nella natura.
-Sopravvivere (Azione dell'Abilità) (Non Addestrato)
-
-Trovare vitto e alloggio gratis.
-Trovare la Direzione:a: (Azione dell'Abilità) (Non Addestrato)
-
-Capire la propria posizione precisa.
-Coprire Tracce (Azione dell'Abilità) (Addestrato)
-
-Nascondere il proprio percorso durante l'esplorazione.
-Seguire Tracce (Azione dell'Abilità) (Addestrato)
-
-Seguire le tracce di una creatura.
 
 ## Allineamento ((++Allineamento))
 
-L'Allineamento rappresenta l'atteggiamento morale ed etico di una creatura.
-Attacco
+L'Allineamento rappresenta l'atteggiamento morale ed etico di una creatura. [link](https://pf2.altervista.org/wiki/Creare_un_Personaggio#Allineamento)
 
-Quando una creatura tenta di arrecare danno a un'altra creatura, sferra un colpo o utilizza un'altra azione per attaccare. La maggior parte degli attacchi sono colpi sferrati con un'arma, ma è possibile Colpire con un pugno, Lottare e Spingere con le proprie mani, o attaccare con un Incantesimo.
-Background
+## Attacco ((++Attacco))
+
+Quando una creatura tenta di arrecare danno a un'altra creatura, sferra un colpo o utilizza un'altra azione per attaccare. La maggior parte degli attacchi sono colpi sferrati con un'arma, ma è possibile Colpire con un pugno, **Lottare** e **Spingere** con le proprie mani, o attaccare con un Incantesimo. 
+
+## Background ((++Background))
 
 Il background rappresenta le esperienze compiute dal personaggio prima di intraprendere la propria carriera da avventuriero. Ogni background ti concede un talento e conferisce addestramento in una o più abilità.
-Bonus e Penalità
+
+/
+## Bonus e Penalità ((++Bonus e penalità))
 
 I bonus e le penalità si applicano alle prove e ad alcune statistiche. Ne esistono di vari tipi. Se hai più di un bonus o penalità dello stesso tipo, usi solo il bonus o penalità più alto.
-Caratteristiche
+|
+info (
+Esistono tre tipi di bonus o penalità, puoi averne al massimo **uno per ogni tipo**, sono:
+* Bonus di **circostanza**
+* Bonus di **oggetto**
+* Bonus di **stato**
+)
 
-Ogni creatura ha sei caratteristiche: Forza, Destrezza, Costituzione, Intelligenza, Saggezza e Carisma rappresentano il potenziale grezzo di un personaggio e i suoi attributi di base.
+/
 
-Caratteristica Chiave (Abilità) Caratteristica Chiave (Classe) Riaddestramento Tirare i Punteggi di Caratteristica (Regola Alternativa)
-Punteggio di Caratteristica
+## Caratteristiche ((++Caratteristiche))
+
+Ogni creatura ha sei caratteristiche: **Forza, Destrezza, Costituzione, Intelligenza, Saggezza** e **Carisma**.
+Rappresentano il potenziale grezzo di un personaggio e i suoi attributi di base. [link](https://pf2.altervista.org/wiki/Creare_un_Personaggio#I_Sei_Punteggi_di_Caratteristica)
+/
+### Punteggio di Caratteristica ((+++Punteggio di Caratteristica))
 
 Il valore base di una caratteristica è detto punteggio di caratteristica. Più alto è il punteggio, maggiore e il potenziale della creatura in quella caratteristica.
-Modificatore di Caratteristica
+|
+### Modificatore di Caratteristica ((+++Modificatore di Caratteristica))
 
 Un valore che si aggiunge ai calcoli, basato sul tuo punteggio di Caratteristica.
-Difetto di Caratteristica
-
-Un difetto di Caratteristica diminuisce uno dei tuoi punteggi di Caratteristica di 2.
-Aumento di Caratteristica
-
-Un aumento di Caratteristica ti consente di aumentare uno dei tuoi punteggi di Caratteristica di 2, oppure di 1 se il punteggio di Caratteristica era già 18 o più. Quando ottieni più di un aumento di Caratteristica in contemporanea, devi applicare ciascuno di essi a un punteggio diverso.
-Carisma (Car)
-
-Questo punteggio di Caratteristica misura il tuo fascino e la tua forza di personalità.
-Costituzione (Cos)
-
-Questo punteggio di caratteristica misura la tua resistenza e durevolezza.
-Destrezza (Des)
-
-Questo punteggio di Caratteristica misura la tua agilità e sveltezza.
-Forza (For)
+/
+-
+/
+### Forza (For)
 
 Questo punteggio di Caratteristica misura la tua struttura muscolare.
-Intelligenza (Int)
+
+###Destrezza (Des)
+
+Questo punteggio di Caratteristica misura la tua agilità e sveltezza.
+
+### Costituzione (Cos)
+
+Questo punteggio di caratteristica misura la tua resistenza e durevolezza.
+|
+
+### Intelligenza (Int)
 
 Questo punteggio di caratteristica misura la tua ragione e il tuo intelletto.
-Saggezza (Sag)
+### Saggezza (Sag)
 
 Questo punteggio di caratteristica misura la tua consapevolezza e intuizione.
-Classe
+### Carisma (Car)
 
-La Classe rappresenta la principale professione da avventuriero scelta da un personaggio. La classe di un PG determina la maggior parte delle sue competenze, fornisce al personaggio un certo numero di Punti Ferita quando ottiene un nuovo livello e dà accesso a una serie di talenti di classe. Ogni personaggio giocante sceglie una Classe durante la creazione del personaggio.
-Alchmista
+Questo punteggio di Caratteristica misura il tuo fascino e la tua forza di personalità.
+/
 
-Archetipo Multiclasse Oggetti Alchemici
-Barbaro
+= 
 
-Archetipo Multiclasse
-Bardo
+## Classe ((++Classe))
 
-Archetipo Multiclasse Incantesimi di Composizione Lista degli Incantesimi Occulti
-Campione
+La Classe rappresenta la principale professione da avventuriero scelta da un personaggio. La classe di un PG determina la maggior parte delle sue competenze, fornisce al personaggio un certo numero di **Punti Ferita** quando ottiene un nuovo livello e dà accesso a una serie di talenti di classe. Ogni personaggio giocante sceglie una Classe durante la creazione del personaggio. [link](https://pf2.altervista.org/wiki/Classi)
+/
+###Alchmista ((+++Alchimista))
+Per te non c'è spettacolo più bello che guardare una strana mistura che gorgoglia in un alambicco e bevi senza remore i tuoi geniali elisir. Ti affascina scoprire i segreti della scienza e del mondo naturale, e in laboratorio o in viaggio sperimenti di continuo fantasiosi intrugli per ogni evenienza. Non temi di correre dei rischi quando scagli miscele tossiche o esplosive contro i nemici. La tua personalissima strada verso la gloria è disseminata di composti alchemici che spingono al limite sia la mente che il corpo. 
+[Oggetti Alchemici](https://pf2.altervista.org/wiki/Oggetti_Alchemici)
 
-Archetipo Multiclasse Divinità Incantesimi di Devozione
-Canaglia
+###Barbaro ((+++Barbaro))
+In battaglia l'ira ti consuma. Gioisci nel seminare scompiglio e laceri le carni dei nemici con armi possenti, affidandoti a una resistenza strabiliante grazie alla quale fai a meno di tecniche complesse o di un rigido addestramento. La tua furia attinge a un istinto violento associato a un animale, uno spirito o una parte di te. Per molti barbari, la forza bruta è un martello e i problemi sono chiodi da battere, mentre altri tentano di reprimere la tempesta emotiva che li infiamma e liberano la furia solo nei momenti cruciali. 
 
-Archetipo Multiclasse
-Chierico
+###Bardo ((+++Bardo))
+Sei un maestro nella tua arte, uno studioso di segreti nascosti e un seducente persuasore. Grazie a potenti esibizioni influenzi le menti e innalzi gli animi verso nuove vette d'eroismo. Potresti sfruttare i tuoi poteri per diventare un capo carismatico, o magari un consigliere, un manipolatore, un erudito, un furfante o un musicista virtuoso. Sebbene la tua versatilità induca qualcuno a ritenerti un affascinante tuttofare perdigiorno, si rischia grosso a liquidarti come uno che non eccelle in niente. 
+[Incantesimi di Composizione](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Bardo) [Lista degli Incantesimi Occulti](https://pf2.altervista.org/wiki/Lista_degli_Incantesimi_Occulti)
 
-Archetipo Multiclasse Divinità e Domini Incantesimi di Dominio Lista degli Incantesimi Divini
-Druido
+###Campione ((+++Campione))
+Sei l'emissario di una divinità, un servitore devoto che ha assunto una gravosa responsabilità e segue un codice che tiene a distanza chi lo circonda. 
+|
+Sebbene esistano campioni di ogni allineamento, come campione del bene offri sicurezza e speranza agli innocenti. Disponi di potenti difese, che condividi generosamente con i tuoi alleati ed eventuali spettatori innocenti, e del potere sacro con cui estirpi la minaccia del male. La tua devozione può persino attirare l'attenzione di spiriti sacri disposti ad aiutarti nel tuo cammino. 
+[Incantesimi di Devozione](https://pf2.altervista.org/wiki/Campione#Incantesimi_di_Devozione)
 
-Archetipo MulticlasseIncantesimi dell'Ordine Lista degli Incantesimi Primevi
-Guerriero
+###Canaglia ((+++Canaglia))
+Sei un abile opportunista che, grazie al suo ingegno sopraffino e a un'eccezionale reattività, approfitta dei passi falsi dei nemici per colpirli dove fa più male. Fai un gioco pericoloso, sempre a caccia di emozioni forti e di opportunità per mettere alla prova le tue capacita e, probabilmente, non t'importa granché delle leggi che potrebbero metterti i bastoni tra le ruote. Ogni canaglia segue una sua personalissima strada irta di pericoli, ma hanno tutte in comune una cosa: l' ampiezza e la profondità delle loro abilita. 
 
-Archetipo Multiclasse
-Mago
+###Chierico ((+++Chierico))
+Le Divinità impongono al mondo la loro volontà in un'infinità di modi, e fra i mortali tu sei uno dei loro servitori più fedeli. Benedetto dalla magia divina, vivi seguendo gli ideali del tuo credo e ti fregi dei simboli della tua chiesa, addestrandoti diligentemente per brandire l'arma prediletta dal tuo dio. Con gli incantesimi proteggi e guarisci gli alleati o combatti i nemici della tua fede, come comanda la tua divinità. Vivi una vita di devozione, spesa a diffondere con parole e azioni gli insegnamenti della tua religione. 
+[Domini](https://pf2.altervista.org/wiki/Divinit%C3%A0) [Incantesimi di Dominio](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Chierico) [Lista degli Incantesimi Divini](https://pf2.altervista.org/wiki/Lista_degli_Incantesimi_Divini)
 
-Archetipo Multiclasse Incantesimi della Scuola Lista degli Incantesimi Arcani
-Monaco
+###Druido ((+++Druido))
+È impossibile resistere al potere della natura. In pochi minuti può devastare la fortezza più solida e abbattere gli edifici più imponenti, bruciandoli fino a ridurli in cenere, seppellendoli sotto valanghe di neve o inabissandoli tra le onde. 
+=
+/
+La natura ricompensa chi le mostra rispetto con infinita prodigalità e splendori da mozzare il fiato, e riserva una morte straziante a chi invece la sottovaluta. Tu sei fra coloro che odono il suo richiamo. La sua maestosa potenza ti ispira una profonda soggezione e ti metti al suo servizio con ogni fibra del tuo essere. 
+[Incantesimi dell'Ordine](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Druido) [Lista degli Incantesimi Primevi](https://pf2.altervista.org/wiki/Lista_degli_Incantesimi_Primevi)
 
-Archetipo Multiclasse Incantesimi Ki
-Ranger
+###Guerriero ((+++Guerriero))
+Che tu combatta per onore, avidità, fedeltà o solo per il brivido della battaglia, sei un indiscusso maestro in fatto di armi e tecniche di combattimento. Quando i nemici sono tanto sciocchi da abbassare la guardia, concateni le tue azioni attraverso ingegnose combinazioni di mosse d'apertura, colpi fatali e contrattacchi. Cavaliere, mercenario, tiratore di precisione o maestro della spada, poco importa: perfezioni le tue abilita marziali fino a elevarle a forma d'arte e metti a segno devastanti attacchi critici. 
 
-Archetipo Multiclasse
-Stregone
+###Mago ((+++Mago))
+Studi incessantemente gli arcani segreti dell'universo e, grazie alla tua padronanza sulla magia, lanci incantesimi potenti e devastanti. Consideri la magia una scienza e, per comprenderne il funzionamento, crei trame di rimandi incrociati fra testi più recenti, che trattano gli aspetti pratici dell'arte arcana, e antichi torni esoterici. Tuttavia, la teoria è vasta e non c'è modo di studiarla nella sua interezza. Puoi specializzarti in una delle otto scuole di magia, e conoscere così ogni sfumatura dei suoi incantesimi a discapito degli altri, o privilegiare un approccio più ampio, che valorizza l'unitarietà della magia ma sacrifica la profondità del sapere. 
+[Incantesimi della Scuola](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Mago) [Lista degli Incantesimi Arcani](https://pf2.altervista.org/wiki/Lista_degli_Incantesimi_Arcani)
 
-Archetipo Multiclasse Incantesimi della Linea di Sangue Liste degli Incantesimi
-Classe Armatura (CA)
+###Monaco ((+++Monaco))
+La forza del pugno scaturisce da mente e spirito. In cerca della perfezione, affini il corpo per farne uno strumento impeccabile, e la mente perché sia un disciplinato baluardo di saggezza.
+|
+Sei un combattente feroce, un rinomato maestro delle arti marziali che, in battaglia, utilizza posizioni che preludono a tecniche eccezionali. Sebbene la sfida di padroneggiare molti stili di combattimento ti spinga verso grandi traguardi, ami meditare su problemi filosofici e scoprire nuove strade per raggiungere la pace e l'illuminazione. 
+[Incantesimi Ki](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Monaco)
+
+###Ranger ((+++Ranger))
+Certi ranger credono che la civiltà logori l'anima, ma che debba comunque essere protetta dalle creature selvagge. Secondo altri, occorre difendere la natura dall'avidità di chi vuole domarne la bellezza e saccheggiarne i tesori. Puoi difendere uno di questi ideali o professarli entrambi. Scegli se diventare un esploratore, un segugio o un cacciatore di fuggiaschi o bestie, che agisce ai margini della società o esplora le terre selvagge. Vivi dei frutti della terra e sei esperto nell'individuare e abbattere le prede che ritieni opportuno cacciare e i nemici che detesti. 
+[Incantesimi del guardiano](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Ranger)
+
+###Stregone ((+++Stregone))
+Non hai scelto di diventare un incantatore, lo sei dalla nascita. La magia è nel tuo sangue: forse una divinità ha sfiorato un tuo avo, un tuo antenato è entrato in comunione con una creatura primeva, o un potente rituale occulto ha influenzato la tua ascendenza. Con l'introspezione e lo studio affini le tue abilità magiche innate, scoprendo capacità sempre nuove e più potenti. Tuttavia, il potere nel tuo sangue comporta un rischio, e sei sempre combattuto tra divenire un maestro fra gli incantatori o cedere agli istinti più distruttivi. 
+[Incantesimi della Linea di Sangue](https://pf2.altervista.org/wiki/Incantesimi_Focalizzati#Stregone) [Liste degli Incantesimi](https://pf2.altervista.org/wiki/Magia)
+
+/
+
+=
+
+## Classe Armatura (CA) ((++Classe Armatura))
 
 Questo punteggio indica quanto sia difficile colpire e danneggiare una creatura. In genere serve come CD per colpire una creatura con un attacco. Tutte le creature nel gioco hanno una Classe Armatura
 
@@ -1471,4 +1312,3 @@ Volume occupato dalle creature:
     Grande 12
     Enorme 24
     Mastodontica 48
-](https://pf2.altervista.org/wiki/Magia)https://pf2.altervista.org/wiki/Magia
