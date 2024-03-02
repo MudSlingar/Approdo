@@ -1,8 +1,61 @@
+title (
+Pathfinder 2e for Dummies
+)
+
+head(
+# PATHFINDER 2e for dummies ((Pathfinder 2e for dummies))
+Una rapida introduzione al sistema di gioco di Pathfinder Seconda Edizione, per chiunque abbia dei dubbi o sia estraneo ai giochi di ruolo.
+-
+)
+
+# In cosa consiste e a cosa serve questa guida ((+In cosa consiste e a cosa serve questa guida))
+
+Se non avete mai giocato ad un gioco di ruolo essere introdotti al sistema di gioco potrebbe essere confusionario, quindi questo file vuole essere una breve introduzione ai concetti da sapere per capire in cosa consiste un cosiddetto "**GDR**", o gioco di ruolo.
+Inoltre è presente una sezione dedicata alla spiegazione generale della terminologia e delle regole della seconda edizione di Pathfinder, il sistema GDR che personalmente uso per le campagne in ambientazione fantasy. 
+Quest'ultima non pretende di potersi sostituire al manuale o alle wiki online, ma serve come **riferimento rapido**.
+/
+Prima di iniziare, una ricordella:
+|
+(Immagine sotto è presente perché mucho texto)
+/
+info(
+Per giocare non è essenziale sapere tutte le regole, e non ti verrà richiesto di saperle per poter iniziare a giocare, ma le potremo imparare insieme giocando, quindi non preoccuparti se non conosci il regolamento e non dannarti nel cercare di impararlo in autonomia prima di giocare.
+)
+
+/
+# Cos'è un GDR ((+Cos'è un GDR))
+Un **gioco di ruolo**, o **GDR**, nella sua definizione più generale, consiste in un gioco da tavolo narrativo dove i giocatori raccontano insieme una storia.
+Spesso, per rendere più interessante la narrazione, comprende regole che aggiungono una componente di casualità o simulazione al racconto. Queste regole permettono di ottenere risultati inaspettati con l'ausilio di dadi poliedrici, carte da gioco, tarocchi, foglie da té o altro.
+In molti GDR tutti i giocatori meno che uno interpretano un singolo personaggio appartenente al mondo descritto dall'ultimo giocatore, detto spesso "Game Master" (GM) o "Arbitro", e ne descrivono le azioni in risposta ad eventi o situazioni in cui sono posti dal GM.
+In altri queste distinzioni tra ruoli dei giocatori non sono presenti, ma non è il nostro caso.
+
+**Per ricapitolare**: i *giocatori* interpretano ognuno un *personaggio* immedesimandosi in esso e prendendo decisioni in base alla descrizione della situazione in cui i personaggi si trovano, presentata loro da un *Game Master*, e queste scelte sono risolte in base alla *narrazione* ed alle *regole di gioco*, con l'ausilio di *dadi* o altri mezzi che aggiungono una componente aleatoria o interpretativa.
+
+Il GDR rappresenta una modalità unica di raccontare una storia, tra i media narrativi, in quanto la trama non è predeterminata e viene costruita passo passo dalla stessa audience. 
+In questo è differente da serie, film, libri o narrazione nel senso tradizionale, proprio perché è una narrazione condivisa.
+
+|
+
+![immagineADHD](https://trex-runner.com/img/trex-runner.png)
+
+# Il nostro caso
+La storia che vorrei costruire insieme a voi, sebbene non sia predeterminata, tratta di personaggi eroici in un'ambientazione fantasy.
+Per questo propongo l'uso del sistema di regole di Pathfinder, che si specializza nella rappresentazione di personaggi dalle capacità straordinarie ma non impone un mondo specifico, così da poterne creare uno insieme a voi.
+
+Per le componenti casuali sopra citate è utilizzata una serie di dadi poliedrici, rispettivamente a quattro, sei, otto, dieci, dodici e venti facce, più semplicemente denominati d4, d6, d8, d10, d12 e d20.
+
+Eventuali vincoli al tipo di personaggio che potrete interpretare (sempre aperti ad essere contrattati per meglio adeguarsi alle vostre idee) possono essere trovati nella guida alla creazione del personaggio, ma a parte questi potete fare riferimento a qualunque cosa per prendere spunto nella creazione del vostro personaggio.
+
+L'ambientazione del mondo che propongo è descritta parzialmente nella wiki della repository dedicata alla campagna di gioco. Se avete domande a riguardo chiedete pure per messaggio o mail. Sappiate che col proseguire del gioco e le vostre interazioni col mondo questo si infittirà di dettagli e cambiamenti.
+
+
+
+/
+=
 head(
 # Sistema di gioco ((Sistema di gioco))
 -
 )
-
 # Giocare ((+Giocare))
 
 Nel gioco il ritmo delle scene è scandito da tre modalità di gioco. I personaggi trascorrono la maggior parte del tempo dedicandosi all'esplorazione, alla scoperta di misteri, alla risoluzione di problemi e all'interazione con gli altri personaggi. Il mondo è irto di pericoli, e i personaggi si ritroveranno spesso coinvolti in incontri, combattimenti contro mostri terrificanti e bestie selvagge; infine, il tempo scorre rapidamente durante la pausa, un momento di tregua dai turbamenti del mondo e un'opportunità per riposarsi e addestrarsi per le spedizioni future. Nel corso del tempo, il gioco si sposta continuamente tra queste tre modalità, come richiesto dalla storia. Con il passare del tempo noterai che ogni modalità ha il suo stile di gioco, ma i confini tra una modalità e l'altra sono alquanto sfumati.
@@ -16,7 +69,7 @@ Quando effettui una prova, il GM confronta il risultato con un numero detto **Cl
 sample(
 ### **Esempio di prova**
 Ad esempio, poniamo che il tuo personaggio insegua una Chimera ferita e che trovi la strada bloccata da un fiume in rapido movimento. Decidi di attraversarlo a nuoto.
-Il GM dichiara che è un compito difficile e ti chiede di effettuare una prova di Atletica (l'abilità che si usa per nuotare). Consultando la scheda, scopri che il tuo PG ha modificatore +8 alla prova. Tiri il d20 ed ottieni 18, per un totale di 26.
+Il GM dichiara che è un compito difficile e ti chiede di effettuare una prova di Atletica (l'abilità che si usa per nuotare). Consultando la scheda, scopri che il tuo PG ha modificatore +8 alla prova. Tiri il d20 ed ottieni 18 sul dado, per un totale di 26.
 Il GM confronta il risultato con la CD della prova (pari a 16) e scopre che hai ottenuto un Successo Critico (perché il risultato supera la CD di 10). Il tuo personaggio nuota rapidamente attraverso il fiume e prosegue l'inseguimento, fradicio ma illeso. Se avessi ottenuto un risultato inferiore a 26 ma pari o superiore a 16, sarebbe giunto circa a metà fiume. Se avessi ottenuto un risultato minore di 16, sarebbe stato trascinato via dalla corrente, o peggio ancora, risucchiato al suo interno, con il rischio di annegare!
 )
 
@@ -153,16 +206,16 @@ item(
 
 **Requisiti**: a volte devi possedere un determinato oggetto o trovarti in una determinata situazione per utilizzare una ca­pacità. Se è così, è indicato in questa sezione.
 
-**Descrizione**: 1uesta sezione descrive gli effetti o i benefici di un elemento regolistico. Se la regola è una azione, è qui spiegato quale effetto ha, o quale tiro di dado devi usare per determinare l'effetto. Se è un talento che modifica un'azione esistente o garantisce un effetto costante, il beneficio è indicato qui.
+**Descrizione**: Questa sezione descrive gli effetti o i benefici di un elemento regolistico. Se la regola è una azione, è qui spiegato quale effetto ha, o quale tiro di dado devi usare per determinare l'effetto. Se è un talento che modifica un'azione esistente o garantisce un effetto costante, il beneficio è indicato qui.
 
-**Speciale**: eventuali eccezioni alla regola sono indicate in questa sezione
+**Speciale**: eventuali eccezioni alle regole sono indicate in questa sezione
 )
 
 /
 
 =
 
-# Parole Chiave ((+Parole chiave))
+# Glossario ((+Glossario))
 
 Quando crei il tuo primo personaggio, o quando ti appresti a scrivere la tua prima avventura, acquisire familiarità con alcune parole chiave può dimostrarsi utile per avere una piena comprensione del regolamento.
 
@@ -374,941 +427,432 @@ Non hai scelto di diventare un incantatore, lo sei dalla nascita. La magia è ne
 
 Questo punteggio indica quanto sia difficile colpire e danneggiare una creatura. In genere serve come CD per colpire una creatura con un attacco. Tutte le creature nel gioco hanno una Classe Armatura
 
-    CA = 10 + modificatore Destrezza (fino alla Destrezza Massima della tua armatura) + bonus competenza + bonus di oggetto dell'armatura alla CA + altri bonus + penalità.
+rules (
+**CA = 10 + modificatore Destrezza (fino alla Destrezza Massima della tua armatura) + bonus competenza + bonus di oggetto dell'armatura alla CA + altri bonus + penalità**
+)
 
-Classe Difficoltà (CD)
+
+## Classe Difficoltà (CD) ((++Classe Difficoltà (CD) ))
 
 Il numero necessario per avere successo in una prova. Per generare una Classe Difficoltà partendo da un modificatore (come la CD di Percezione), aggiungi 10 al modificatore.
-Competenza
+
+## Competenza ((++Competenza))
 
 La competenza misura l'attitudine in un certo compito o qualità. Ci sono cinque gradi di competenza: senza addestramento, addestrato, esperto, maestro e leggendario. La competenza conferisce un bonus da aggiungere nel momento in cui determini le seguenti statistiche e modificatori: CA, Tiri per Colpire, Percezione, Tiri Salvezza, Abilità ed efficacia degli Incantesimi. Se sei senza addestramento, il tuo bonus di competenza è +0. Se sei addestrato, esperto, maestro o leggendario, il tuo bonus di competenza e pari al tuo livello più, rispettivamente, 2, 4, 6 o 8.
-Non Addestrato
+-
+### Non Addestrato
 
 Il grado di competenza più basso (bonus +0).
-Addestrato
+-
+/
+### Addestrato
 
-Aggiungi il tuo livello + 2 alle CD e ai tiri associati. Alcune azioni dell'abilità e molte altre regole richiedono di essere addestrati.
-Esperto
-
+Aggiungi il tuo livello + 2 alle CD e ai tiri associati. 
+### Esperto
 Aggiungi il tuo livello + 4 alle CD e ai tiri associati.
-Maestro
+
+|
+### Maestro
 
 Aggiungi il tuo livello + 6 alle CD e ai tiri associati.
-Leggendario
+### Leggendario
 
 Aggiungi il tuo livello + 8 alla CD e ai tiri associati.
-Condizione
 
-Un effetto continuo che cambia il modo in cui è possibile agire o altera alcune delle tue statistiche è chiamato Condizione.
-Abbagliato
+/
+-
+## Condizione ((++Condizione))
 
-Tutto ti appare occultato.
-Accecato
+Un effetto continuo che cambia il modo in cui è possibile agire o altera alcune delle tue statistiche è chiamato Condizione. [link](https://pf2.altervista.org/wiki/Condizioni)
 
-Non vedi nulla.
-Accelerato
 
-Ottieni un'azione extra a ogni turno.
-Aﬀascinato
-
-Sei costretto a concentrare la tua attenzione su qualcosa.
-Aﬀaticato
-
-Le tue difese sono abbassate e non riesci a concentrarti mentre esplori.
-Aﬀerrato
-
-Una creatura, oggetto o magia ti tiene fermo.
-Amichevole
-
-Un PNG con questa condizione è ben disposto nei tuoi confronti.
-Assordato
-
-Non odi nulla.
-Collaborativo
-
-Un PNG con questa condizione vuole darti aiuto.
-Condannato
-
-La tua anima è in pericolo e ti avvicini alla morte.
-Confuso
-
-Attacchi indiscriminatamente.
-Controllato
-
-Un'altra creatura determina le tue azioni.
-Danno Persistente
-
-Continui a subire danni a ogni round.
-Ferito
-
-Sei stato in punto di morte; sei fuori pericolo ma non ti sei ancora del tutto ripreso.
-Immobilizzato
-
-Non riesci a muoverti.
-Impreparato
-
-Subisci penalità di circostanza -2 alla CA.
-In Fuga
-
-Devi scappare via.
-Indebolito
-
-Sei stato privato della tua forza.
-Indifferente
-
-Un PNG con questa condizione non ha una forte opinione su di te.
-Ingombrato
-
-Un volume eccessivo impedisce il tuo movimento.
-Inosservato
-
-Una creatura è completamente inconsapevole della tua presenza.
-Invisibile
-
-Le creature non possono vederti.
-Maldestro
-
-Non riesci a muoverti con la facilità o la grazia consueta.
-Maldisposto
-
-Un PNG con questa condizione ti trova sgradevole.
-Morente
-
-Sei stato ridotto a 0 PF e stai per morire.
-
-Condizioni Correlate a Morte e Morente
-Nascosto
-
-Una creatura alla quale sei nascosto conosce la tua ubicazione ma non ti vede.
-Nauseato
-
-Hai il voltastomaco.
-Non Individuato
-
-Una creatura da cui sei non individuato non sa dove ti trovi.
-Occultato
-
-La scarsa visibilità ti rende difficile indicare un bersaglio.
-Osservato
-
-Sei in piena vista.
-Ostile
-
-Un PNG con questa condizione vuole danneggiarti.
-Paralizzato
-
-Non puoi muoverti o difenderti affatto.
-Pietrificato
-
-Sei stato trasformato in pietra.
-Privo di Sensi
-
-Sei addormentato o fuori combattimento.
-
-Regole di Morte, Morire e Fuori Combattimento.
-Prono
-
-Giaci a terra ed è più semplice attaccarti.
-Rallentato
-
-Perdi azioni a ogni turno.
-Risucchiato
-Rotto
-
-Questo oggetto non può essere usato per la sua funzione consueta fino a quando non viene riparato.
-Sbigottito
-
-Non puoi utilizzare appieno le tue facoltà mentali e hai problemi a lanciare incantesimi.
-Spaventato
-
-La paura ti rende incapace di attaccare e difenderti.
-Stordito
-
-Non puoi agire per un certo numero di azioni o un periodo di tempo.
-Trattenuto
-
-Sei bloccato da vincolo o da una creatura in lotta.
-Gioco di Ruolo
-
-Descrivere le azioni di un personaggio, spesso mentre si agisce dal punto di vista del personaggio stesso, è chiamato gioco di ruolo. Quando un giocatore parla o descrive l'azione dalla prospettiva di un personaggio, è entrato "nel ruolo".
-Game Master [GM]
-
-Il Game Master è il giocatore che fa seguire le regole e controlla i vari elementi della storia del gioco e del mondo che gli altri giocatori esplorano.
-Personaggio Giocante [PG]
-
-Un personaggio creato e controllato da un giocatore.
-Personaggio non Giocante [PNG]
-
-Un personaggio non giocante è controllato dal GM allo scopo di interagire con i giocatori e aiutare lo sviluppo della storia.
-Incantesimo
+## Incantesimo ((++Incantesimo))
 
 Gli Incantesimi sono effetti magici generati dall'uso della magia, effettuando gesti noti solo a chi possiede uno speciale addestramento o delle capacita innate. Lanciare incantesimi è un'attività che in genere consuma due azioni. Gli Incantesimi specificano il loro bersaglio, gli effetti, le azioni necessarie per lanciarli e come si può resistere ad essi. Se una classe conferisce incantesimi, il funzionamento basilare di questa capacita compare nella descrizione della Classe, mentre gli Incantesimi sono descritti nella sezione Magia.
-Iniziativa
+
+## Iniziativa ((++Iniziativa))
 
 All'inizio di un incontro, tutte le creature coinvolte effettuano un tiro per l'Iniziativa per determinare l'ordine in cui i partecipanti agiscono. Più alto è il risultato del tiro, prima una creatura arriva ad agire.
-Livello
+
+=
+
+## Livello ((++Livello))
 
 Un livello è un numero che misura la potenza complessiva di qualcosa. Un personaggio ha un livello che va da 1 a 20 e rappresenta il suo livello di esperienza. Mostri, PNG, pericoli, malattie e veleni hanno un livello da -1 a 30 che misura il rischio che rappresentano. Il livello di un oggetto indica il suo potere e il suo valore come tesoro e in genere va da O a 20, ma talvolta anche oltre. Gli incantesimi hanno livelli che vanno da 1 a 10 e che misurano la loro potenza; i personaggi e i mostri possono lanciare solo un certo numero di incantesimi per livello.
-Percezione
+
+## Percezione ((++Percezione))
 
 La Percezione misura la capacita del tuo personaggio di notare oggetti nascosti o situazioni insolite, e di solito determina quanto velocemente agisci in combattimento.
-Punti Ferita [PF]
+
+## Punti Ferita [PF] ((++Punti ferita (PF) ))
 
 I Punti Ferita rappresentano la quantità di danni che una creatura può sopportare prima di cadere Priva di Sensi e iniziare a morire. I danni riducono i Punti Ferita secondo un rapporto 1 a 1, mentre la guarigione ripristina i Punti Ferita nella stessa proporzione. Per saperne di più vedi Punti Ferita, Guarigione e Morte
-Rarità
+
+## Rarità ((++Rarità))
 
 Alcuni elementi del gioco hanno una loro rarità che descrive quanto spesso si incontrano nel mondo del gioco. La rarità si applica principalmente all'equipaggiamento e agli oggetti magici, ma anche incantesimi, talenti e altri elementi delle regole hanno ciascuno una rarità, Se la rarità non compare tra i tratti di un oggetto, di un incantesimo o di qualche altro elemento del gioco, significa che ha rarità comune. Gli oggetti di rarità non comune sono accessibili solo per coloro che sono stati avviati a un tipo speciale di addestramento, che sono cresciuti in una certa cultura o che provengono da un luogo particolare. Gli oggetti che sono classificati come rari sono praticamente impossibili da trovare e appaiono nel gioco solo se il GM sceglie di includerli, mentre degli oggetti unici esiste letteralmente un solo esemplare nel mondo del gioco. Il GM può modificare il funzionamento della rarità o la rarità di un oggetto per la storia che intende raccontare.
-Round
+
+## Round ((++Round))
 
 Il round e una frazione di tempo nella quale tutti i partecipanti a un combattimento hanno la possibilità di agire. Esso corrisponde a circa 6 secondi nel mondo del gioco.
-Stirpe
+
+## Stirpe ((++Stirpe))
 
 La Stirpe è l'ampia famiglia di persone a cui appartiene un personaggio. La stirpe determina i Punti Ferita iniziali, le lingue, la Velocità e i sensi di un personaggio e fornisce l'accesso ai talenti di stirpe.
-Talenti
+
+## Talenti ((++Talenti))
 
 Un Talento è una capacita che un personaggio riceve dalla propria stirpe, dal suo background, dalla sua classe, dall'addestramento generico che ha ricevuto o dal suo addestramento nelle abilita. Alcuni talenti permettono di utilizzare delle azioni speciali.
-Tiro Salvezza [TS]
 
-Quando una creatura è soggetta a effetti pericolosi che deve cercare di evitare, effettua un Tiro Salvezza per ridurne le conseguenze negative. Un Tiro Salvezza è automatico: non devi spendere un'azione o una reazione a tal fine. A differenza della maggior parte delle prove, il personaggio che non sta agendo lancia il d20 per un Tiro Salvezza, e la creatura che agisce genera la CD di riferimento. Esistono tre tipi di Tiri Salvezza: Tempra (per resistere a veleni, malattie ed effetti fisici), Riflessi (per mitigare gli effetti di ciò che puoi schivare con rapidità) e Volontà (per resistere agli effetti che colpiscono la mente e la personalità),
-Tratto
+## Tiro Salvezza [TS] ((++Tiro Salvezza (TS) ))
+
+Quando una creatura è soggetta a effetti pericolosi che deve cercare di evitare, effettua un Tiro Salvezza per ridurne le conseguenze negative. Un Tiro Salvezza è automatico: non devi spendere un'azione o una reazione a tal fine. A differenza della maggior parte delle prove, il personaggio che non sta agendo lancia il d20 per un Tiro Salvezza, e la creatura che agisce genera la CD di riferimento. Esistono tre tipi di Tiri Salvezza: Tempra (per resistere a veleni, malattie ed effetti fisici), Riflessi (per mitigare gli effetti di ciò che puoi schivare con rapidità) e Volontà (per resistere agli effetti che colpiscono la mente e la personalità).
+
+=
+
+## Tratto ((++Tratto))
 
 Un Tratto è una parola chiave che serve a impartire informazioni aggiuntive su un determinato elemento di regole, come una scuola di magia o la rarità di un elemento del gioco. Spesso, i tratti servono a indicare come altre regole interagiscono con una capacita, una creatura, un oggetto, o un altro elemento di regole che ha quel tratto.
-Turno
 
-Durante il corso di un round, ogni creatura ha un singolo turno che dipende dal suo ordine di iniziativa. Una creatura di solito può usare fino a 3 azioni durante il suo turno.
-Valuta
+## Turno ((++Turno))
 
-Le principali valute utilizzate nel gioco sono la moneta d'oro (mo) e la moneta d'argento (ma). 1 moneta d'oro vale 10 monete d'argento e 1 moneta d'argento vale 10 monete di rame (mr); infine, 10 monete d'oro valgono 1 moneta di platino (mp). All'inizio del gioco, i personaggi hanno 15 monete d'oro (150 monete d'argento) da spendere per l'equipaggiamento.
-Moneta di Rame (Mr)
+Durante il corso di un [**round**](https://pf2.altervista.org/wiki/Glossario#Round), ogni creatura ha un singolo turno che dipende dal suo ordine di iniziativa. Una creatura di solito può usare fino a 3 azioni durante il suo turno.
 
-La valuta più economica e l'unità di misura basilare.
-Moneta d'Argento (Ma)
+## Attacco ((++Attacco))
 
-Una moneta d'argento vale dieci monete di rame.
-Moneta d'Oro (Mo)
+Quando una creatura tenta di danneggiare un'altra creatura, effettua un [Colpo](https://pf2.altervista.org/wiki/Modalit%C3%A0_Incontro#Colpire) o usa un'altra azione di [attacco](https://2e.aonprd.com/Traits.aspx?ID=15). Molti attacchi richiedono un Tiro per Colpire e prendono come bersaglio la Classe Armatura.
 
-Una moneta d'oro vale dieci monete d'argento.
-Moneta di Platino (Mp)
+rules(
+**Modificatore al Tiro per Colpire in Mischia** = modificatore di Forza (o Destrezza in alcuni casi) + bonus di competenza + altri bonus + penalità
 
-Una moneta di platino vale dieci monete d'oro.
-Velocità
+**Modificatore del Tiro per Colpire a Distanza** = modificatore Destrezza + bonus competenza + altri bonus + penalità
+)
 
-La velocità rappresenta la distanza che un personaggio può percorrere utilizzando un'azione singola, misurata in metri.
-Glossario
-1 naturale, 20 naturale
-
-Quando tiri un d20 e il numero sul dado è 1, diminuisci il grado di successo di un passo. Quando il numero è 20, aumenta il grado di successo di un passo.
-Afflizione
-
-Un'afflizione può colpire una creatura per un lungo tempo e avere diverse fasi. I tipi più comuni sono le malattie, le maledizioni e i veleni.
-Affrettarsi (Attività per l'Esplorazione)
-
-Muoversi al doppio della propria Velocità di viaggio.
-Alleato
-
-Un alleato è qualcuno che appartiene alla tua fazione. Tu non conti come alleato di te stesso.
-Allineamento
-
-L'allineamento rappresenta l'etica di base e la propensione morale di una creatura, lungo gli assi legge-caos e bene-male.
-Anatema
-
-Quando un personaggio viola le restrizioni sul comportamento imposte dalla sua fonte di potere, può perdere alcune capacità collegate.
-Applicare un Talismano (Attività)
-
-Attività usata per applicare un talismano a un oggetto.
-Area
-
-Una forma e una dimensione specifiche di un effetto.
-Archetipo
-
-Uno speciale tema aggiuntivo per il tuo personaggio; lo puoi selezionare usando i tuoi talenti di classe.
-Attacco
-
-Quando una creatura tenta di danneggiare un'altra creatura, effettua un Colpo o usa un'altra azione di attacco. Molti attacchi richiedono un Tiro per Colpire e prendono come bersaglio la Classe Armatura.
-
-    Modificatore al Tiro per Colpire in Mischia = modificatore di Forza (oppure modificatore Destrezza per un'arma Accurata) + bonus di competenza + altri bonus + penalità;
-    Modificatore del Tiro per Colpire a Distanza = modificatore Destrezza + bonus competenza + altri bonus + penalità.
-
-Attacchi di Opportunità :r:
-
-Una reazione che i guerrieri e altri personaggi ottengono.
-Attivare un Oggetto (Attività)
-
-Fornisci i componenti specificati per Attivare un Oggetto alchemico o magico. Il numero di azioni necessario varia in base all'oggetto.
-Attività
+## Attività ((++Attività))
 
 Una categoria di azioni che in genere ha bisogno di più di una singola azione. L'attività nel tuo turno utilizzano 2 azioni (:aa:) o 3 azioni (:aaa:). Le attività di esplorazione e di pausa possono impiegare minuti, ore o giorni.
-Avventura
 
-Una singola storia, compresi i preparativi l'intreccio e la conclusione. I personaggi giocanti giocano un'avventura nel corso di una o più sessioni di gioco e l'avventura potrebbe far parte di una campagna più vasta.
-Azioni
+## Azioni ((++Azioni))
 
 Imprese distinte che generano un effetto specifico, magari richiedendo una prova per determinare il risultato. Si possono usare le azioni per ottenere diverse cose, come muoversi, attaccare, lanciare un incantesimo o interagire con un oggetto. La maggior parte delle creature può usare 3 azioni durante il proprio turno.
-Azione Base
 
-Un'azione che tutte le creature possono usare.
-Afferrare un Bordo :r: (Azione Base Specialistica)
+## Azione Base ((++Azione Base))
 
-Cercare di aggrapparsi a qualcosa mentre si cade.
-Aiutare :r: (Azione Base)
+Un'azione che tutte le creature possono usare. Per la descrizione completa seguire il [link](https://pf2.altervista.org/wiki/Modalit%C3%A0_Incontro#Azioni_Base)
+-
+/
+
+### Aiutare :r: (Azione Base)
 
 Fornire un bonus alla prova di abilita o al Tiro per Colpire di un alleato.
-Alzare lo Scudo :a: (Azione Base Specialistica)
 
-Ottieni bonus del tuo scudo alla CA.
-Alzarsi :a: (Azione Base)
+### Alzarsi :a: (Azione Base)
 
 Risollevarsi da posizione Prona.
-Andare Carponi :a: (Azione Base)
+### Andare Carponi :a: (Azione Base)
 
 Muoversi di 1,5 metri mentre si è Proni.
-Andare in Copertura :a: (Azione Base)
+### Andare in Copertura :a: (Azione Base)
 
 Ottenere Copertura, oppure migliorarla per ottenere Copertura Superiore.
-Arrestare una Caduta :r: (Azione Base Specialistica)
 
-Usare Acrobazia per rallentare una caduta mentre si vola.
-Avanzare :a: (Azione Base)
+### Avanzare :a: (Azione Base)
 
 Muoversi fino alla propria Velocità.
-Cadere a Terra :a: (Azione Base)
+### Cadere a Terra :a: (Azione Base)
 
 Cadere Proni sul terreno.
-Colpire :aa: (Azione Base)
+### Colpire :aa: (Azione Base)
 
 Effettuare un attacco con un arma o un attacco senz'armi.
-Evitare lo Sguardo :a: (Azione Base Specializzata)
-
-Ottenere bonus +2 contro le capacità visive.
-Indicare :a: (Azione Base Specialistica)
+|
+### Indicare :a: (Azione Base Specialistica)
 
 Segnalare la posizione di una creatura non individuata.
-Individuare :a: (Azione Base)
+### Individuare :a: (Azione Base)
 
 Esaminare un'area in cerca di creature o oggetti usando Percezione.
-Interagire :a: (Azione Base)
+### Interagire :a: (Azione Base)
 
 Afferrare o maneggiare un oggetto.
-Intuire :a: (Azione Base)
+### Intuire :a: (Azione Base)
 
 Stabilire se una creatura sta mentendo.
-Lasciare :f: (Azione Base)
+### Lasciare :f: (Azione Base)
 
 Lasciare qualcosa che si tiene in mano.
-Montare :a: (Azione Base Specialistica)
+### Montare :a: (Azione Base Specialistica)
 
 Salire su una creatura alleata per cavalcarla.
-Passo :a: (Azione Base)
+### Passo :a: (Azione Base)
 
 Muoversi di 1,5 metri senza innescare reazioni.
-Preparare :aa: (Azione Base)
+=
+### Preparare :aa: (Azione Base)
 
 Preparare un'azione da usare quando non è il tuo turno.
-Ritardare :aa: (Azione Base)
+### Ritardare :aa: (Azione Base)
 
 Effettuare il proprio turno più tardi.
-Saltare :a: (Azione Base)
+|
+### Saltare :a: (Azione Base)
 
 Saltare in orizzontale per 3 metri (4,5 metri se la tua Velocità è di 9 metri o più), oppure in verticale per 0,9 metri e in orizzontale per 1,5 metri.
-Scavare :a: (Azione Base Specialistica)
 
-Muoversi alla Velocità di Scavare.
-Sfuggire :a: (Azione Base)
+### Sfuggire :a: (Azione Base)
 
 Tentare di liberarsi quando si viene Afferrati, immobilizzati o trattenuti.
-Volare :a: (Azione Base Specialistica)
+/
+-
 
-Muoversi fino alla propria velocità di Volare.
-
-Combattimento Aereo, Velocità di Volare
-Azione Gratuita :f:
+## Azione Gratuita :f: ((++Azione Gratuita))
 
 Un'azione che puoi usare senza spendere una delle tue azioni. Le azioni gratuite con innesco possono essere utilizzate in qualsiasi momento, ma non consumano la tua unica reazione disponibile per round.
-Azione Singola :a:
 
-Un'azione che impiega una delle tre azioni del tuo turno.
-Background
+## Background ((++Background))
 
 Le esperienze del tuo personaggio prima di diventare un avventuriero. Ogni personaggio giocante sceglie un Background durante la creazione del personaggio.
-Baluardo (tratto dell'armatura)
-Bonus
 
-Un valore positivo aggiunto a un calcolo. Aggiungi solo il bonus più alto di ogni singolo tipo (circostanza, oggetto, status).
-Bonus di Circostanza
+## Cadere ((++Cadere))
 
-Un bonus che deriva da una situazione.
-Bonus di Oggetto
+Quando cadi per più di 1,5 metri, subisci danni contundenti pari 5/3 della distanza in metri per cui sei caduto e atterri [Prono](https://pf2.altervista.org/wiki/Prono).
 
-Un bonus che proviene da un oggetto.
-Bonus di Status
-
-Un bonus che tipicamente deriva da un incantesimo o da una condizione e che rappresenta uno status benefico.
-CA (Classe Armatura)
-
-Vedi anche Classe Armatura
-Cadere
-
-Quando cadi per più di 1,5 metri, subisci danni contundenti pari 5/3 della distanza in metri per cui sei caduto e atterri Prono.
-Campagna
-
-Una storia a puntate incentrata su un unico gruppo di personaggi e che si svolge in più avventure.
-Capacità
+## Capacità ((++Capacità))
 
 Questo è un termine generico riferito a regole che forniscono un'eccezione alle regole base. Una capacità potrebbe provenire da diverse fonti, per cui "una capacita che ti concede un bonus ai tiri dei danni" potrebbe essere un Talento, un Incantesimo e così via.
-Caratteristica Chiave
+
+## Caratteristica Chiave ((++Caratteristica Chiave))
 
 La tua caratteristica chiave è il punteggio di Caratteristica che usi per determinare la tua CD di classe, così come la CD del tuo Tiro per Colpire con incantesimo se sei un incantatore. Una caratteristica chiave per un'abilità è il modificatore di caratteristica usato per quell'abilità.
-Cavalcatura
 
-Un compagno animale con questa capacità speciale porta in sella il suo cavaliere.
-CD (Classe Difficoltà)
+## CD dell'Incantesimo ((++CD dell'incantesimo))
 
-Vedi anche Classe Difficoltà
-CD dell'Incantesimo
+La CD degli incantesimi misura quanto sia difficile resistere ai tuoi incantesimi con i Tiri Salvezza o contrastarli. 
 
-La CD degli incantesimi misura quanto sia difficile resistere ai tuoi incantesimi con i Tiri Salvezza o contrastarli. CD dell'incantesimo = 10 + modificatore di Caratteristica di lancio degli incantesimi + bonus competenza + altri bonus + penalità.
-CD di Classe
+rules(
+**CD dell'incantesimo** = 10 + modificatore di Caratteristica di lancio degli incantesimi + bonus competenza + altri bonus + penalità.
+)
 
-Una CD di classe stabilisce la difficoltà per alcune capacità concesse dalla classe del tuo personaggio. CD di classe = 10 + bonus di competenza + modificatore di Caratteristica chiave.
-Cercare (Attività per l'Esplorazione)
+## CD di Classe ((++CD di Classe))
 
-Andare in cerca di cose nascoste.
-Combattimento
+Una CD di classe stabilisce la difficoltà per alcune capacità concesse dalla classe del tuo personaggio. 
+rules(
+**CD di classe** = 10 + bonus di competenza + modificatore di Caratteristica chiave.
+)
 
-Vedi anche Incontri
-Competenza
 
-Una misura dell'attitudine di un personaggio a svolgere uno specifico compito o una qualità, con cinque gradi: senza addestramento, addestrato, esperto, maestro e leggendario. La competenza concede un bonus di competenza. Essere senza addestramento aggiunge un bonus di +0. Essere addestrato, esperto, maestro o leggendario aggiunge rispettivamente il tuo livello più 2, 4, 6 o 8.
-Componente
+## Contrastare ((++Constrastare))
 
-Un processo usato per Lanciare un Incantesimo o Attivare un Oggetto.
-Cono (area)
-Contatto
+Il processo utilizzato quando un effetto tenta di annullarne un altro. Vedere [link](https://pf2.altervista.org/wiki/Regole#Contrasto).
+Contrastando con successo un effetto lo si termina a meno che non sia diversamente indicato.
 
-Un raggio di incantesimo che richiede di toccare il bersaglio.
-Contrastare
+Quando tenti una prova di contrasto, somma il modificatore di Abilità o gli altri modificatori appropriati alla tua prova contro la CD del bersaglio. Se stai contrastando un'Afflizione, la CD è indicata nel suo blocco statistiche. Se è un Incantesimo, usa la CD dell'incantatore. Il GM può inoltre calcolare una CD a seconda del livello dell'effetto del bersaglio. Per gli Incantesimi, il modificatore alla prova di contrasto è il tuo modificatore di Caratteristica per il lancio di Incantesimi più il tuo bonus di competenza nel lancio di incantesimi, più qualsiasi bonus e penalità che si applicano specificatamente alle prove di contrasto.
 
-Il processo utilizzato quando un effetto tenta di annullarne un altro.
-Controincantesimo :r:
+=
 
-Una reazione che alcuni incantatori possono usare per annullare gli incantesimi.
-Copertura
+Ciò che puoi contrastare dipende dal risultato della prova e dal livello del bersaglio. Se un effetto è un incantesimo, il suo livello è il livello di contrasto; altrimenti, dimezza il suo livello e arrotonda per eccesso per determinare il livello di contrasto. Se il livello di un effetto non è chiaro e viene da una creatura, dimezza e arrotonda per eccesso il livello di quest'ultima.
+rules(
+* **Successo Critico**: Contrasta il bersaglio se il suo livello di contrasto non è maggiore di più di 3 livelli rispetto al livello di contrasto del tuo effetto.
+* **Successo**: Contrasta il bersaglio se il suo livello di contrasto non è maggiore di più di 1 livello rispetto al livello di contrasto del tuo effetto.
+* **Fallimento**: Contrasta il bersaglio se il suo livello di contrasto è minore del livello di contrasto del tuo effetto.
+* **Fallimento Critico**: Non riesci a contrastare il bersaglio.
+)
+
+## Copertura ((++Copertura))
 
 Quando sei dietro un ostacolo fisico, ottieni bonus di circostanza +2 a CA, TS su Riflessi contro effetti ad area e prove di Furtività. Questo aumenta a +4 per una copertura superiore. Le creature possono fornire una copertura inferiore, cioè un bonus di circostanza +1 a CA.
-Costo Della Vita
-Creatura
+
+## Creatura ((++Creatura))
 
 Un partecipante attivo alla storia e al mondo. Include mostri e personaggi non giocanti (interpretati dal Game Master) e personaggi giocanti (interpretati dagli altri giocatori).
-Critico
+
+## Critico ((++Critico))
 
 È possibile ottenere un successo superiore (un successo critico) tirando 10 in più rispetto alla CD, oppure un fallimento più grave (un fallimento critico) tirando 10 in meno rispetto alla CD.
-d4 d6, d8, d10, d12, d20 e d%
 
-Sigle per diversi tipi di dadi. Per esempio, "d20" è un dado a venti facce.
-Danno
+## Danno ((++Danno))
 
 I danni inflitti a una creatura riducono i Punti Ferita di quella creatura secondo un rapporto di 1 a 1.
 
-    Tiro per i Danni da Mischia = dado del danno dell'arma o dell'attacco senz'armi + modificatore Forza + bonus + penalità;
-    Tiro per i Danni a Distanza = dado del danno dell'arma + modificatore Forza per un'arma da lancio + bonus + penalità.
+rules(
+**Tiro per i Danni da Mischia** = dado del danno dell'arma o dell'attacco senz'armi + modificatore Forza + bonus + penalità;
 
-Fisico (Tipo di Danno)
+**Tiro per i Danni a Distanza** = dado del danno dell'arma + modificatore Forza per un'arma da lancio + bonus + penalità.
+)
 
-Una categoria generica che comprende danni contundenti, perforanti e taglienti.
-Allineamento (Tipo di Danno)
-
-Una categoria generica di danno che include i danni caotici, legali, da bene e da male.
-Energia (Tipo di Danno)
-
-Una categoria generica che comprende danni da acido, freddo, elettricità, fuoco, forza e danni negativi, positivi e sonori.
-Mentale (Tipo di Danno)
-Precisione (Tipo di Danno)
-
-Un tipo di danno che aumenta il danno elencato dell'attacco, usando lo stesso tipo di danno, invece di aggiungere una quantità separata.
-Sanguinamento (Tipo di Danno)
-
-Un tipo di danno persistente.
-Veleno (Tipo di Danno)
-Debolezza
+## Debolezza ((++Debolezza))
 
 Aumenta i danni di un certo tipo che subisci.
-Declivio (Terreno)
 
-È necessario Scalare un declivio.
-Difendersi (Attività per l'Esplorazione)
-
-Viaggiare con lo scudo alzato.
-Divinità
-
-Le divinità sono potenti entità che vivono oltre il mondo e conferiscono potere sotto forma di incantesimi ai loro fedeli credenti.
-Dubitare
-
-Tentare di ignorare un'illusione.
-Durezza
-
-Una statistica che rappresenta la solidità di un oggetto.
-Effetto
-
-Un effetto è il risultato di una capacità, anche se l'effetto esatto di una capacità a volte dipende dal risultato di una prova o di un altro tiro.
-Emanazione (area)
-Esplorazione
-
-Una modalità di gioco utilizzata per viaggiare, investigare ed esplorare in vari modi. Il GM determina il fluire del tempo.
-Esplosione (area)
-Estrarre un Oggetto
-
-Vedi anche Interagire
-Età
-Evitare l'Individuazione (Attività per l'Esplorazione)
-
-Usare Furtività per muoversi senza essere individuati.
-Fallimento
+## Fallimento ((++Fallimento))
 
 Un risultato su una prova che non riesce a raggiungere la CD. Fallire di 10 o più è un fallimento critico. Se una prova non presenta alcuna voce che descriva il fallimento, non accade nulla in caso di fallimento.
-Fame e Sete
-Famiglio
 
-Una creatura Minuscola misticamente legata a te.
-Fase
-
-Uno dei gradi di un'Afflizione.
-Fianchi
+## Fianchi ((++Fianchi))
 
 Quando due creature si trovano su lati opposti del loro nemico, esse sono ai fianchi della creatura e questa diventa Impreparata per quelle creature.
-Fino ai Tuoi Prossimi Preparativi Giornalieri
+
+## Fino ai Tuoi Prossimi Preparativi Giornalieri ((++Fino ai Tuoi Prossimi Preparativi Giornalieri))
 
 Un incantesimo con questa durata prosegue fino alla prossima volta in cui ti prepari e puoi estenderlo lasciando il suo slot.
-Fiuto (Senso)
 
-Percepire le cose usando l'olfatto come senso impreciso con una portata limitata.
-Formula
-
-Una ricetta o le istruzioni necessarie per creare un oggetto.
-Frequenza
-
-Una capacità che non può essere usata a piacimento potrebbe elencare una frequenza.
-Fuori Combattimento
+## Fuori Combattimento ((++Fuori Combattimento))
 
 Quando vieni ridotto a 0 PF, cadi Privo di Sensi e Morente.
-Game Master (GM)
+
+=
+
+## Game Master (GM) ((++Game Master))
 
 Il giocatore che si pronuncia sulle regole e che narra gli elementi della storia e del mondo di gioco che gli altri giocatori esplorano.
-Giocatore
+
+## Giocatore ((++Giocatore))
 
 Una delle persone reali che giocano al tavolo.
-Gioco di Ruolo (GdR)
+
+## Gioco di Ruolo (GdR) ((++Gioco di Ruolo))
 
 Una storia interattiva in cui un giocatore, il Game Master (GM), imposta la scena e presenta le sfide, mentre altri giocatori assumono il ruolo di Personaggi Giocanti (PG) e tentano di superare quelle sfide.
-Gioco di Ruolo
 
-Descrivere le azioni di un personaggio, spesso mentre agisce dal punto di vista del personaggio.
-Gradi di Successo
+## Gradi di Successo ((++Gradi di successo))
 
 I quattro possibili esiti di una prova: successo critico, successo, fallimento e fallimento critico.
-Griglia
 
-Una mappa con quadretti da 2,5 centimetri utilizzati per indicare posizione e movimento.
-Guarigione
-
-Abilità Medicina, Guarigione Naturale, Riposo Prolungato (pausa)
-Illimitato
-
-Un incantesimo con questa durata prosegue indefinitamente.
-Immunità
+## Immunità ((++Immunità))
 
 Un'immunità fa si che una creatura ignori tutti i danni, gli effetti o le condizioni di un certo tipo.
 
-Immunità degli Oggetti.
-Immunità Temporanea
-
-Un effetto che rende una creatura temporaneamente immune consente a quella creatura di evitare nuovi effetti con lo stesso nome, ma non pone termine a ciò che è causato dall'effetto che ha fornito l'immunità temporanea.
-Incantatore
+## Incantatore ((++Incantatore))
 
 Un incantatore è un personaggio la cui classe o il cui archetipo gli concede il privilegio di classe di lancio degli incantesimi. La capacità di lanciare incantesimi focalizzati o incantesimi innati di per sé non trasforma un personaggio in un incantatore.
-Incantesimo
 
-Un effetto magico creato eseguendo incantamenti e gesti mistici noti solo a coloro che hanno un addestramento speciale o capacità innate. CD incantesimo (10 + modificatore di caratteristica di lancio degli incantesimi + bonus di competenza + altri bonus + penalità). Tiro per Colpire con incantesimo (modificatore di caratteristica di lancio degli incantesimi + bonus competenza + altri bonus + penalità).
+## Incantesimo ((++Incantesimo))
 
-Aree, Attaccare con un Incantesimo, Bersagli, Componenti, Contrastare, Descrizioni degli Incantesimi, Durate, Identificare Magia, Innati, Innesco, Intensificare, Interrompere, lancio di incantesimi e attività Lanciare un Incantesimo. Liste degli Incantesimi, Muri, Preparati, Raggi, Repertorio degli Incantesimi (gli incantesimi che un incantatore spontaneo conosce), Rituali, Scuola, Slot Incantesimo, Spontanei, Tradizione (arcana, divina, occulta e primeva), Trucchetti.
-Materiale (Componente di Incantesimo)
-Somatico (Componente di Incantesimo)
-Verbale (Componente di Incantesimo)
-Incantesimo Focalizzato
+Un effetto magico creato eseguendo incantamenti e gesti mistici noti solo a coloro che hanno un addestramento speciale o capacità innate. 
+rules(
+**CD incantesimo**  = 10 + modificatore di caratteristica di lancio degli incantesimi + bonus di competenza + altri bonus + penalità 
+
+**Tiro per Colpire con incantesimo** = modificatore di caratteristica di lancio degli incantesimi + bonus competenza + altri bonus + penalità
+)
+
+## Incantesimo Focalizzato ((++Incantesimo Focalizzato))
 
 Un tipo di incantesimo, specifico di una classe, che può essere lanciato usando i Punti Focalizzazione e che viene automaticamente intensificato a metà del tuo livello, arrotondato per eccesso. Gli incantesimi focalizzati hanno sempre un termine descrittivo come "incantesimo di dominio" o "incantesimo ki".
-Rituale
+
+## Rituale ((++Rituale))
 
 Un tipo di incantesimo che si può lanciare solo nelle pause e che non usa slot incantesimo.
 
-Rifocalizzare (attività).
-Incontro
-
-Una modalità di gioco in cui il tempo viene misurato in round di 6 secondi e i partecipanti usano azioni precise. Il combattimento si svolge in incontri.
-
-Costruire Incontri, Battaglie Speciali (a cavallo, acquatiche, aree), Gestire gli Incontri, Incontri Sociali, Iniziativa
-Individuare il Magico (attività per l'esplorazione)
-
-Lanciare Individuazione del Magico a intervalli regolari.
-Iniziativa
+## Iniziativa ((++Iniziativa))
 
 All'inizio di un incontro, tutti i partecipanti coinvolti tirano l'iniziativa per determinare l'ordine in cui agiscono. Ritardare
-Innesco
+
+## Innesco ((++Innesco))
 
 Un evento specifico che rende possibile utilizzare una reazione o un'azione libera.
-Interrompere :a: (Azione)
 
-Terminare un incantesimo o un oggetto magico che può essere interrotto.
-Interrompere le Azioni
-
-Interrompere gli Incantesimi Interrompere le Attivazioni degli Oggetti
-Investigare (Attività per l'esplorazione)
-
-Studiare i propri dintorni.
-Investire un Oggetto (Attività)
-
-Investire la propria energia in un oggetto mentre lo si indossa.
-Lanciare un Incantesimo (Attività)
-
-Fornire componenti magici per lanciare un incantesimo. Il numero di azioni da compiere varia in base all'incantesimo.
-Latenza
-
-Il ritardo prima che un'afflizione, un elisir o una pozione abbia effetto.
-Leshy
-
-Queste sono piccole creature vegetali, di forma vagamente umanoide.
-Libro degli Incantesimi
-Lignaggio
-
-Una scelta fatta per definire ulteriormente la tua stirpe.
-Linea (Area)
-Linea d'Effetto
-Linea di Vista
-Lingua
-Livello
-
-Un numero che misura la potenza complessiva di qualcosa. Un personaggio ha un livello da 1 a 20, e anche altri aspetti del gioco hanno livelli.
-Magia
-
-Incantesimi
-Mantenere un Incantesimo :a: (Azione)
-
-Estendere un incantesimo mantenendone la durata.
-Mantenere un'Attivazione :a: (Azione)
-
-Estendere l'attivazione di un oggetto mantenendone la durata fino alla fine del proprio turno successivo.
-Mantenuto
-
-Un incantesimo con questa durata può essere esteso con Mantenere un Incantesimo.
-Modalità di Gioco
-
-I tre tipi di gioco (incontri, esplorazioni e pause) hanno ciascuno un orizzonte temporale e un grado di precisione delle regole diversi.
-Modificatore
-
-Un valore aggiunto a un calcolo; può essere positivo o negativo. Modificatore di Caratteristica
-Moltiplicare
-Mostro
-
-Un mostro è una creatura che in genere non è umana e serve a contrastare i PG in qualche modo. I mostri benefici sono delle eccezioni nella maggioranza delle partite. Il GM interpreta il ruolo di qualsiasi mostro che i PG incontrano.
-
-[[Abilità#Ricordare Conoscenze [Senza Addestramento]|Identificazione dei Mostri]]
-Movimento
-
-Movimento Forzato Movimento Senza Griglia Movimento negli Incontri e su una Griglia Tipi di Movimento Speciali Velocità (velocità sul terreno)
-Munizioni
-Muri
-Oggetto
-
-Un oggetto che porti, tieni o usi. Gli oggetti a volte concedono un bonus di oggetto o una penalità di oggetto ad alcune prove.
-
-Armature, Armi, Artigianato, Attivare Oggetti Alchemici e Magici, Bonus o Penalità di Oggetto, Danni agli Oggetti, Formule, Investire Oggetti Magici, Livello dell'Oggetto, Materiali, Oggetti Alchemici, Oggetti Magici, Portare, Indossare e Impugnare, Rarità ,Rune, Scadente, Scudi, Tabelle dei Tesori, Taglia, Vendere e Comperare, Volume
-Materiali
-Legnoscuro (Materiale)
-Mithral (Materiale)
-Oricalco (Materiale)
-Pelle di Drago (Materiale)
-Ordine del Gruppo
-Oscurità
-
-Le creature e gli oggetti nell'oscurità sono nascosti o non individuati, e le creature senza Scurovisione hanno la condizione Accecato nell'oscurità.
-Paladino
-
-Un campione di allineamento legale buono
-Pareti
-Parlare
-Pathfinder Society
-
-Una campagna di gioco organizzato che è attiva in tutto il mondo.
-Pausa
-
-Una modalità di gioco in cui i personaggi non sono all'avventura. I giorni passano rapidamente al tavolo e , personaggi si impegnano in attività a lungo termine
-Penalità
-
-Un valore negativo aggiunto a un calcolo. Aggiungi solo la penalità peggiore di ogni singolo tipo (circostanza, oggetto, status).
-
-Penalità da Gittata
-Penalità da Attacchi Multipli
+## Penalità da Attacchi Multipli ((++Penalità da Attacchi Multipli))
 
 Subisci questa penalità su tutti gli attacchi dopo il primo, durante il tuo turno. Si tratta di una penalità -5 al secondo attacco e -10, a tutti gli attacchi successivi (o -4 e -8 se la tua arma o il tuo attacco senz'armi ha il tratto Agile).
-Penalità di Circostanza
 
-Una penalità che deriva da una situazione.
-Penalità di Oggetto
+=
 
-Una penalità che proviene da un'oggetto.
-Penalità di Status
-
-Una penalità che generalmente deriva da un incantesimo o da una condizione e che rappresenta uno status dannoso.
-Percepire Creature
-Percezione
+## Percezione ((++Percezione))
 
 Una statistica che misura la tua capacità di notare oggetti nascosti o situazioni insolite. La Percezione viene generalmente utilizzata per i tiri di iniziativa.
 Modificatore di Percezione = modificatore Saggezza + bonus di competenza + altri bonus+ penalità. Iniziativa
-Percezione Tellurica (Senso)
 
-Individuare il movimento delle creature lungo le superfici.
-Pericolo
-
-I pericoli sono difficoltà diverse dalle creature e gli avventurieri li incontrano durante i loro viaggi; comprendono i rischi ambientali, le infestazioni e le trappole.
-
-    I pericoli semplici hanno un effetto una tantum, ma contro i pericoli complessi occorre agire in modalità incontro, in cui il pericolo ha una routine specifica.
-
-Pe per i Pericoli Pericoli Complessi Pericoli Semplici
-Perlustrare (Attività per l'esplorazione)
-
-Andare avanti in cerca di pericoli.
-Personaggio
+## Personaggio ((++Personaggio))
 
 Questo termine è un sinonimo di creatura, ma è più spesso usato per riferirsi ai personaggi giocanti e ai personaggi non giocanti piuttosto che ai mostri.
 
-Creazione del Personaggio
-Personaggio Giocante (Personaggio o PG)
-
-Un personaggio creato e controllato da un giocatore diverso dal GM. Creazione del Personaggio
-Personaggio Non Giocante (PNG)
-
-Un personaggio controllato dal GM.
-Piano
-Preparativi Giornalieri
-
-Durante i tuoi preparativi mattutini appronti la tua attrezzatura, prepari gli incantesimi e ti appresti in vari modi ad affrontare la tua giornata di avventure.
-Preparativi
-
-Vedi anche Preparativi Giornalieri.
-Prerequisito
-
-Molti talenti e altre capacità possono essere presi solo se si soddisfano i loro prerequisiti. I prerequisiti sono spesso talenti o gradi di competenza.
-Prezzo
-
-La quantità di valuta solitamente necessaria per acquistare un articolo.
-Privilegio di Classe
+## Privilegio di Classe ((++Privilegio di Classe))
 
 Qualsiasi capacità concessa da una classe è un privilegio di classe. Questi consistono principalmente in talenti di classe e altre capacità specifiche della classe.
-Prova
+
+## Prova ((++Prova))
 
 Quando tiri un d20 e aggiungi modificatori, bonus e penalità, e poi confronti il tuo risultato con una Classe Difficoltà, stai tentando una prova.
 
-    Gradi di Successo (successo critico, successo, fallimento, fallimento critico) Penalità alla Prova (penalità alle prove di abilità imposta dall'armatura)
-
-Prova Segreta
-Prova per il Recupero
-
-Una prova semplice per vedere se si peggiora o migliora mentre si è Morenti.
-Prova Semplice
+## Prova Semplice ((++Prova Semplice))
 
 Un tiro d20 che è totalmente affidato al caso. A una prova semplice non si possono applicare modificatori, bonus o penalità.
-Punti Eroe
+
+## Punti Eroe ((++Punti Eroe))
 
 Questi punti durano solo per una sessione. Puoi spendere 1 Punto Eroe per ripetere un tiro o tutti i tuoi Punti Eroe per evitare di morire.
 
-Assegnare Punti Eroe
-Punti Esperienza (PE)
+## Punti Esperienza (PE) ((++Punti Esperienza))
 
 I Punti Esperienza misurano l'avanzamento di un personaggio giocante, accumulati durante il gioco. In genere un PG raggiunge un nuovo livello al raggiungimento di 1.000 PE
 
-Ammontare per gli Incontri Avanzare di Livello Premi in PE
-Punti Ferita (PF)
+## Punti Ferita (PF) ((++Punti Ferita))
 
 Una statistica che rappresenta la quantità di danno fisico che una creatura può subire prima che cada priva di sensi o muoia Il danno diminuisce i Punti Ferita secondo un rapporto di 1 a 1, mentre la guarigione ripristina I Punti Ferita allo stesso ritmo. Punti Ferita della Classe Punti Ferita della Stirpe
 
-Punti Ferita di un'Oggetto Punti Ferita Temporanei
-Punti Ferita Temporanei
-Punto Focalizzazione
+## Punto Focalizzazione ((++Punto Focalizzazione))
 
 Se puoi lanciare incantesimi focalizzati, hai una riserva di Punti Focalizzazione che puoi usare per lanciarli. Riacquisti un Punto Focalizzazione usando l'attività Rifocalizzare.
-Raggio
-Reazione(:r:)
+
+## Reazione(:r:) ((++Reazione))
 
 Un'azione che puoi usare anche se non è il tuo turno. Puoi usare 1 reazione per round.
-Resistenze
+
+## Resistenze ((++Resistenze))
 
 Riduce i danni di un certo tipo che subisci.
-Riaddestrare
 
-Puoi riaddestrarti durante le pause per modificare le scelte del personaggio.
-Ricaricare
-Ricchezza
-
-La ricchezza del personaggio in base al livello.
-Ricompense
-Rifocalizzare (Attività)
-
-Riottenere un Punto Focalizzazione
-Ripetere un Incantesimo (Attività per l'Esplorazione)
-
-Lanciare un incantesimo ripetutamente mentre ci si muove.
-Riposo
+## Riposo ((++Riposo))
 
 I personaggi recuperano PF (normalmente modificatore Costituzione + livello) e risorse con 8 ore di sonno. Riposo Prolungato
-Risultato di Una Prova
-Round
+
+## Round ((++Round))
 
 Un periodo di tempo durante un incontro in cui tutti i partecipanti hanno la possibilità di agire. Un round rappresenta circa 6 secondi nel tempo di gioco.
 
-Durate Misurate in Round
-Runa
+=
 
-Pietra Runica
-Scheda del Personaggio
-
-Pagine formattate in cui è possibile registrare le scelte, le statistiche, i talenti, gli incantesimi e i dettagli del personaggio.
-Scudo
-
-azione Alzare lo Scudo, reazione Parare con lo Scudo, Scudi Magici e Speciali
-Scuola
+## Scuola ((++Scuola))
 
 La magia è divisa in otto scuole: abiurazione, ammaliamento, divinazione, evocazione, illusione, invocazione, necromanzia e trasmutazione.
-Scurovisione (Senso)
 
-Vedere chiaramente nell'oscurità benché solo in bianco e nero.
-Seguire l'Esperto (Attività per l'esplorazione)
-
-Trarre benefici dalla competenza di qualcun altro in un'abilità
-Sensi
-Senso Impreciso
-
-Un senso che può far diventare le creature nascoste, ma non osservate, come per esempio l'udito umano.
-Senso Preciso
-
-Un senso che può far individuare le creature osservate, come per esempio la vista umana.
-Senso Vago
-
-Un senso che può individuare una creatura inosservata ma non determinarne la posizione, come l'olfatto di un essere umano.
-Sessione
-
-Una sessione di gioco di solito dura alcune ore.
-Sete
-Soffocare
-
-Vedi Affogare e Soffocare
-Soglia di Rottura (SR)
-
-Quando i PF di un oggetto raggiungono questo numero, l'oggetto diventa rotto.
-Spazio
-
-I quadretti che una creatura occupa su una griglia.
-Stirpe
+## Stirpe ((++Stirpe))
 
 Una grande famiglia, un popolo a cui appartiene una creatura. ogni personaggio giocante seleziona una stirpe come primo passo della creazione del personaggio.
-Strumento
 
-Strumento alchemico
-Strutture
-Successo
-
-Un risultato su una prova, uguale o superiore alla CD. Superare la CD di 10 o più è ancora meglio: un successo critico. Se un blocco statistiche non ha una voce successo. ciò significa che non c'è alcun effetto in caso di successo.
-Superficie Stretta (Terreno)
-
-È necessario Bilanciarsi per attraversare una superficie stretta.
-Supportare:a:
-
-Indichi al tuo compagno animale di supportarti.
-Taglia
+## Taglia ((++Taglia))
 
 Una creatura può essere Minuscola, Piccola, Media, Grande, Enorme o Mastodontica.
 
-Taglia di un Oggetto
-Enorme (Taglia)
-Grande (Taglia)
-Mastodontico (Taglia)
-Medio (Taglia)
-Minuscolo (Taglia)
-Piccolo (Taglia)
-Talento
+## Talento ((++Talento))
 
 Una capacità che ottieni o che selezioni per il tuo personaggio a causa della sua stirpe, del suo background, della sua classe, del suo addestramento generico o del suo addestramento nelle abilità. Alcuni talenti concedono azioni speciali.
 
 Talento di Abilità (talento generico che migliora le abilità), Talenti di Archetipo, Talenti di Classe Talenti di Stirpe Talenti Generici.
-Tempo Atmosferico
-Terreno
 
-Ambiente
-Terreno Accidentato (Terreno)
-
-È necessario Bilanciarsi per non cadere quando si attraversa un terreno accidentato.
-Terreno Difficile (Terreno)
-
-Entrare in uno spazio di terreno difficile costa 1,5 extra di movimento, o 3 metri extra per un terreno difficile superiore.
-Terreno Pericoloso (Terreno)
-
-Subisci danni quando ti muovi attraverso questo terreno.
-Tesoro
-
-Vedi anche Tabelle dei Tesori.
-Tiro
-
-Ogni volta che tiri i dadi, stai effettuando un tiro. li tipo più comune di tiro è una prova (confrontare un d20 più il modificatore con una CD).
-Tiro di Dado
-
-Ogni volta che tiri dadi, stai effettuando un tiro.
-Tiro per Colpire con Incantesimo
-
-Tenti un Tiro per Colpire con incantesimo quando prendi come bersaglio una creatura con una magia mirata. Si applica la Penalità da Attacchi Multipli. Modificatore del Tiro per Colpire con incantesimo = modificatore di caratteristica di lancio degli incantesimi + bonus di competenza+ altri bonus + penalità.
-Tiro Salvezza o TS (Prova)
-
-Un tiro fatto per evitare o mitigare un effetto pericoloso. Si esegue automaticamente un TS, senza alcuna azione o reazione. Il personaggio che non sta agendo tira il d20 per un tiro salvezza e la creatura che sta agendo fornisce la CD. Esistono tre tipi di tiri salvezza: Tempra, Riflessi e Volontà.
-
-Tiro Salvezza Base
-Riflessi (Rifl)
-
-Un tipo di tiro salvezza usato per schivare rapidamente. Modificatore di Riflessi = Modificatore Destrezza + bonus competenza + altri bonus + penalità.
-Tempra (Temp)
-
-Un tipo di tiro salvezza usato per resistere a malattie, veleni e altri effetti fisici, Modificatore di Tempra = modificatore Costituzione + bonus di competenza+ altri bonus+ penalità.
-Volontà (Vol)
-
-Un tiro salvezza usato per resistere agli effetti che colpiscono la mente e la personalità. Modificatore Volontà = Modificatore Saggezza + bonus di competenza + altri bonus + penalità.
-Tradizione
+## Tradizione ((++Tradizione))
 
 Una categoria fondamentale di magia (arcana, divina, occulta o primeva).
-Tradizione Magica
 
-Le tradizioni della magia sono arcana, divina, occulta e primeva.
-Turni di Guardia
-Turno
+## Turno ((++Turno))
 
 Durante un round in un incontro, ogni creatura effettua un singolo turno. Una creatura in genere usa fino a 3 azioni durante il suo turno.
-Uso
 
-Indicazione di come un oggetto deve essere indossato, tenuto o comunque utilizzato.
-Velocità
+## Volume ((++Volume))
 
-Una misura della distanza che un personaggio può compiere usando una singola azione, misurata in metri.
-
-Movimento, Velocità di Scavare, Velocità di Scalare, Velocità di Volare, Velocità di Nuotare, Movimento sulla Griglia, Penalità di Velocità Dovuta all'Armatura, Passo, Avanzare, Velocità di Viaggio.
-Visione Crepuscolare (Senso)
-
-Vedere in condizioni di Luce Fioca come se fosse Luce Intensa.
-Visualizzare (Componente di attivazione dell'oggetto)
-Volume
-
-Un valore che indica le dimensioni, il peso e l'ingombro di un oggetto. 10 oggetti di Volume leggero equivalgono a 1 Volume e 1.000 monete sono 1 Volume. Un personaggio diventa Ingombrato se porta Volume maggiore di 5 + il suo modificatore Forza e non può portare più di 10 + il suo modificatore Forza.
+Un valore che indica le dimensioni, il peso e l'ingombro di un oggetto. 10 oggetti di Volume leggero equivalgono a 1 Volume e 1.000 monete sono 1 Volume. 
+Un personaggio diventa Ingombrato se porta Volume maggiore di 5 + il suo modificatore Forza e non può portare più di 10 + il suo modificatore Forza.
 
 Conversioni per Taglie Diverse
 Volume occupato dalle creature:
 
-    Minuscola 1
-    Piccola 3
-    Media 6
-    Grande 12
-    Enorme 24
-    Mastodontica 48
+
+##### Tabella: Conversioni per Taglie Diverse ((+++Conversioni Taglie-Volume))
+Taglia | Volume
+--- | :---:
+Minuscola | 1
+Piccola | 3
+Media | 6
+Grande | 12
+Enorme | 24
+Mastodontica | 48
