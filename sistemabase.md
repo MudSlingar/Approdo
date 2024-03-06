@@ -1,57 +1,7 @@
-title (
-Pathfinder 2e for Dummies
+title(
+    Glossario    
 )
 
-head(
-# PATHFINDER 2e for dummies ((Pathfinder 2e for dummies))
-Una rapida introduzione al sistema di gioco di Pathfinder Seconda Edizione, per chiunque abbia dei dubbi o sia estraneo ai giochi di ruolo.
--
-)
-
-# In cosa consiste e a cosa serve questa guida ((+In cosa consiste e a cosa serve questa guida))
-
-Se non avete mai giocato ad un gioco di ruolo essere introdotti al sistema di gioco potrebbe essere confusionario, quindi questo file vuole essere una breve introduzione ai concetti da sapere per capire in cosa consiste un cosiddetto "**GDR**", o gioco di ruolo.
-Inoltre è presente una sezione dedicata alla spiegazione generale della terminologia e delle regole della seconda edizione di Pathfinder, il sistema GDR che personalmente uso per le campagne in ambientazione fantasy. 
-Quest'ultima non pretende di potersi sostituire al manuale o alle wiki online, ma serve come **riferimento rapido**.
-/
-Prima di iniziare, una ricordella:
-|
-(Immagine sotto è presente perché mucho texto)
-/
-info(
-Per giocare non è essenziale sapere tutte le regole, e non ti verrà richiesto di saperle per poter iniziare a giocare, ma le potremo imparare insieme giocando, quindi non preoccuparti se non conosci il regolamento e non dannarti nel cercare di impararlo in autonomia prima di giocare.
-)
-
-/
-# Cos'è un GDR ((+Cos'è un GDR))
-Un **gioco di ruolo**, o **GDR**, nella sua definizione più generale, consiste in un gioco da tavolo narrativo dove i giocatori raccontano insieme una storia.
-Spesso, per rendere più interessante la narrazione, comprende regole che aggiungono una componente di casualità o simulazione al racconto. Queste regole permettono di ottenere risultati inaspettati con l'ausilio di dadi poliedrici, carte da gioco, tarocchi, foglie da té o altro.
-In molti GDR tutti i giocatori meno che uno interpretano un singolo personaggio appartenente al mondo descritto dall'ultimo giocatore, detto spesso "Game Master" (GM) o "Arbitro", e ne descrivono le azioni in risposta ad eventi o situazioni in cui sono posti dal GM.
-In altri queste distinzioni tra ruoli dei giocatori non sono presenti, ma non è il nostro caso.
-
-**Per ricapitolare**: i *giocatori* interpretano ognuno un *personaggio* immedesimandosi in esso e prendendo decisioni in base alla descrizione della situazione in cui i personaggi si trovano, presentata loro da un *Game Master*, e queste scelte sono risolte in base alla *narrazione* ed alle *regole di gioco*, con l'ausilio di *dadi* o altri mezzi che aggiungono una componente aleatoria o interpretativa.
-
-Il GDR rappresenta una modalità unica di raccontare una storia, tra i media narrativi, in quanto la trama non è predeterminata e viene costruita passo passo dalla stessa audience. 
-In questo è differente da serie, film, libri o narrazione nel senso tradizionale, proprio perché è una narrazione condivisa.
-
-|
-
-![immagineADHD](https://trex-runner.com/img/trex-runner.png)
-
-# Il nostro caso
-La storia che vorrei costruire insieme a voi, sebbene non sia predeterminata, tratta di personaggi eroici in un'ambientazione fantasy.
-Per questo propongo l'uso del sistema di regole di Pathfinder, che si specializza nella rappresentazione di personaggi dalle capacità straordinarie ma non impone un mondo specifico, così da poterne creare uno insieme a voi.
-
-Per le componenti casuali sopra citate è utilizzata una serie di dadi poliedrici, rispettivamente a quattro, sei, otto, dieci, dodici e venti facce, più semplicemente denominati d4, d6, d8, d10, d12 e d20.
-
-Eventuali vincoli al tipo di personaggio che potrete interpretare (sempre aperti ad essere contrattati per meglio adeguarsi alle vostre idee) possono essere trovati nella guida alla creazione del personaggio, ma a parte questi potete fare riferimento a qualunque cosa per prendere spunto nella creazione del vostro personaggio.
-
-L'ambientazione del mondo che propongo è descritta parzialmente nella wiki della repository dedicata alla campagna di gioco. Se avete domande a riguardo chiedete pure per messaggio o mail. Sappiate che col proseguire del gioco e le vostre interazioni col mondo questo si infittirà di dettagli e cambiamenti.
-
-
-
-/
-=
 head(
 # Sistema di gioco ((Sistema di gioco))
 -
