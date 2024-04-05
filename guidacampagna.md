@@ -166,6 +166,36 @@ Ci tengo a finire questo discorso dicendo che ovviamente del mondo ne sarà quel
 ## Avventure ed esplorazione ((++Avventure ed esplorazione))
 C'è veramente una differenza tra *avventure* ed *esplorazione* allora? Non esattamente. Le avventure potranno nascere da qualunque cosa troverete esplorando, che siano luoghi proposti da voi o tramite qualche mappa del tesoro, l'importante è che non ci sia l'idea che i master vi presentino un'avventura pronta, con tanto di risoluzione. Se qualcuno volesse fare così sarebbe più indicato scrivere un libro, ma questo a parte da noi master saranno presentati **luoghi** e **problemi**. 
 Come avventurarvi in questi luoghi e risolvere i suddetti problemi sta a voi, ed è proprio in questo che consiste l'avventura. Non temete perché non esiste una soluzione "giusta" ai problemi che i personaggi si troveranno davanti, ma solo quella che viene scelta da voi, in quanto non stiamo seguendo una storia o delle avventure preconfezionate.
+
+## Il tempo di pausa ((++Il tempo di Pausa))
+Tra una missione e l'altra potrete passare il vostro tempo ad Approdo, svolgendo ricerche sui reperti trovati in missione, lavorando o facendo altre cose.
+Anche se non state ruolando il vostro PG il tempo sta passando per loro, quindi ricordatevi di segnarvi il costo della stanza e del cibo secondo quanto indicato sul discord o wiki.
+
+### Identificazione di oggetti
+Potete identificare oggetti rari o magici spendendo del tempo ad analizzarli.
+Questo prevede di passare quattro giorni ad analizzare un oggetto magico, per ottenere informazioni a riguardo. Nel caso il livello sia troppo alto o l'oggetto troppo raro il successo in questo tentativo **non sarà assicurato**, ma in buona parte dei casi sì.
+Filverel è sempre disposto ad identificare oggetti magici per conto vostro, ad un prezzo di 2 mo per livello dell'oggetto, o oggetti rari o alchemici per 5 ma per livello dell'oggetto.
+
+### Lavorare
+Potete lavorare seguendo le indicazioni dell'attività [Guadagnare](https://pf2.altervista.org/wiki/Abilit%C3%A0#Guadagnare_.5BAddestrato.5D), lavorando dove possibile ad Approdo o nei dintorni. Sono disponibili lavori dal livello 0 al livello 2 per adesso. Seguono la seguente tabella per le prove ed il guadagno giornaliero. **CHIEDETE SEMPRE AD UN MASATER PRIMA DI FARE UN TIRO PER LAVORARE**.
+
+|
+*Tabella: Guadagnare ad Approdo*
+| Livello del lavoro | CD | Fallimento | Addestrato | Esperto | Leggendario |
+|----|----|------------|----------|------------------|
+| 0 | 14 | 1 mr | 5 mr | 5 mr | 5 mr | 5 mr |
+| 1 | 15 | 2 mr | 2 ma | 2 ma | 2 ma | 2 ma |
+| 2 | 16 | 4 mr | 3 ma | 3 ma | 3 ma | 3 ma |
+
+*Riassunto delle regole per guadagnare*: il GM stabilisce un livello per il lavoro che vuoi svolgere, dopo il tuo primo giorno di lavoro fai un tiro per determinare i tuoi introiti. Il guadagno dipende dal risultato della prova, dal tuo grado di competenza dell'abilità utilizzata e dal livello del lavoro.
+Dopo aver fatto questo tiro puoi continuare a guadagnare lo stesso ammontare per il resto del tempo che vuoi spendere lavorando, oppure tentare un nuovo tiro dopo almeno una settimana di lavoro.
+
+*    **Successo Critico**: guadagni come per un compito di un (1) livello superiore
+*    **Successo**: guadagni come indicato nella tabella per il livello del compito
+*    **Fallimento**: guadagni come nella tabella, sotto la voce fallimento
+*    **Fallimento Critico**: non guadagni nulla, vieni immediatamente licenziato. Non puoi ritentare quel lavoro fino alla settimana successiva, e comunque difficilmente ti verranno proposti lavori di livello superiore all'1.
+    
+
 -
 # Organizzarsi ((+Organizzarsi))
 Nel pratico queste indicazioni vogliono dire che non ci sarà una giornata dedicata al GDR, dove i master vi propongono la loro avventura, ma potrete in qualunque momento fare una "chiamata alle armi" nel gruppo dedicato alla campagna, e chiunque sia libero ed interessato a partecipare, o abbia controproposte, potrà aggregarsi. Dopodiché, se un master sarà disponibile nella data scelta il gruppo così formato si incontrerà in un luogo adatto (generalmente a casa di uno dei partecipanti o in un luogo che accoglie tavoli di GDR) e potrà giocare la sessione, esplorando i luoghi di cui chiedevano nella chiamata alle armi.
@@ -173,8 +203,10 @@ note(
 **Esempi**: "Sarei disponibile la sera del 28 Febbraio per esplorare la torre in rovina che abbiamo visto in lontananza la scorsa sessione" o "Chi ci sarebbe il 2 Marzo per liberare il Tempio di Grumsh dall'accampamento di orchi?"
 )
 Per convenienza, soprattutto per noi poveri master, cercate di non creare gruppi troppo sbilanciati per livello, così da evitare che una parte del gruppo venga "carry-ata" dagli avventurieri più esperti.
--
-|
+
+
+=
+/
 # Personaggi ((+Personaggi))
 Nessun personaggio è creato uguale (mi auguro), ma tutti i personaggi sono creati secondo le stesse regole ed indicazioni.
 Per la creazione dei personaggi seguite le indicazioni sulla pagina [Creazione del personaggio](https://pf2.altervista.org/wiki/Creare_un_Personaggio), in breve
@@ -194,13 +226,14 @@ Tutti i personaggi dovranno partire dal primo livello, durante la creazione del 
 Le classi dell'Inventore, Pistolero e Cineta non sono disponibili, per il resto potete scegliere una tra tutte le altre, anche guardando dalla [lista completa con classi non tradotte in italiano](https://2e.aonprd.com/Classes.aspx).
 Ogni PG parte inoltre con 15 monete d'oro a disposizione per acquistare oggetti di qualunque tipo, che siano al massimo di livello 2 (se non vedete indicazioni sul livello di un oggetto vuol dire che è 0, se è un oggetto magico e non le vedete controllate meglio).
 Ovviamente potere sempre contattarmi (muddersling@gmail.com o per telefono) per discutere eventuali scelte inusuali per i vostri personaggi.
-/
 
-=
-/
+
+
+
 ## Personaggi multipli ((++Personaggi multipli))
 Un singolo giocatore può anche avere più personaggi giocanti, ed interpretarli in diverse sessioni, ma mai in contemporanea, finché si attiene alle regole per la creazione dei personaggi per ognuno di questi.
 Avere un personaggio al livello cinque non vuol dire poter creare altri personaggi direttamente dal livello cinque! Anche i nuovi personaggi dovranno partire dal primo livello e "farsi la gavetta" per conto proprio.
+|
 È inoltre fortemente consigliato evitare che i propri PG più potenti "aiutino" con della beneficenza i propri PG più deboli: quella *spada della distruzione delle abberrazioni* non è pensata per PG di primo livello!
 Chiediamo quindi a voi come giocatori di evitare di sbilanciare troppo il gioco, e permettere invece ai vostri nuovi PG di crescere indipendentemente e vivere l'esperienza dell'avventura senza "aiutini".
 -
@@ -213,9 +246,19 @@ L'archivio dei resoconti sarà disponibile in un file sulla repository github pe
 # La mappa ((+La mappa))
 Lo storico dei racconti non sarà l'unico documento utile per decidere dove andare all'avventura, però.
 Ci sarà anche **la mappa**, su cui potrete segnare i luoghi trovati ed esplorati, segnare dicerie e se vorrete condividere mappe del tesoro o simili curiosità.
-|
+
 La mappa esisterà in copia cartacea, e sarà a vostra disposizione ogni sessione, così da permettervi di aggiungere dettagli e modificarla, inoltre una versione scannerizzata (o fotografata, dato lo sbatto necessario a scannerizzare ogni volta) sarà disponibile sulla repositoty github, così da poterla avere sempre a disposizione.
--
+
+=
+
+# Versione documento ((Versioni))
+
+**Versione 1.0** (*06/03/24*)
+* Creato il documento
+
+**Versione 1.1** (*05/04/24*)
+* Aggiunte regole per i lavori in città ed identificazione di oggetti
+
 note(
 ## Documentazione riguardo campagne in stile west marches
 Nel caso dovesse interessarvi la storia o sentire dei consigli di persone che hanno più esperienza di noi nel gestire una campagna come quella che abbiamo lanciato, vi lascio una breve documentazione a riguardo:
@@ -224,11 +267,7 @@ Nel caso dovesse interessarvi la storia o sentire dei consigli di persone che ha
 * Un post reddit che riassume esperienze di un Master che ha partecipato a diverse campagne W.M. [post reddit (ENG)](https://www.reddit.com/r/DMAcademy/comments/adn178/lessons_from_west_marches_a_guide_to_improving/).
 )
 -
-*Reminder, se ci dovessero essere problemi con questa guida o degli errori di testo potete contattarmi e vedrò di aggiornarla. Tanti baci.*
-# Versione documento ((Versioni))
-
-**Versione 1.0** (*06/03/24*)
-* Creato il documento
+*Reminder, se ci dovessero essere problemi con questa guida o degli errori di testo potete contattarmi e vedrò di aggiornarla.*
 /
 =
 
